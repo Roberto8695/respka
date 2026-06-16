@@ -1,1 +1,17 @@
+# Entorno
 .env
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ChromaDB local
+transcripka_chroma/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
