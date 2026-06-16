@@ -1,0 +1,335 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/xO3HHP5_gdo
+
+00:00:00.680 Cientos de ataques informáticos, multitud de brechas de seguridad de la información. Raro es el día que nos vemos en las noticias. Brechas de
+00:00:07.279 seguridad que afectan a datos personales, información financiera, credenciales, donde al final el usuario
+00:00:13.160 puede tener un gran problema y las empresas afrontar grandes multas y pérdida de su reputación. Tengo 20 años
+00:00:19.880 de experiencia en el mundo de la privacidad, la seguridad de la información y la protección de datos. Y en esta serie de vídeos que comienza
+00:00:26.679 hoy, vamos a ver los tips importantísimos para implementar la ISO
+00:00:32.159 27001 como estándar en tu organización. Si quieres aprender todo sobre la ISO
+00:00:37.559 27001, ya sea para superar una auditoría o ya sea para ser un gran consultor en
+00:00:43.120 la materia, quédate y apoya esta serie de vídeos porque voy a desvelar todos
+00:00:48.480 sus secretos. La norma ISO 27001 es un estándar certificable de seguridad de la
+00:00:54.320 información que busca mejorar en las entidades los procesos y procedimientos para garantizar la confidencialidad, la
+00:01:03.160 integridad de la información y la disponibilidad de la información y de los datos. Pero ojo, que sea
+00:01:09.400 certificable y que busques certificar tu compañía no es el objetivo final, es
+00:01:14.479 solo la consecuencia de haberlo hecho todo muy bien. Si solo buscas tener un certificado colgado en la pared de la
+00:01:20.079 empresa, las auditorías estarán estupendas, pero durante el resto del año probablemente no se haga nada y al
+00:01:26.799 final no se defiende lo importante, la información y los datos, porque nadie está a salvo de una brecha de seguridad
+00:01:32.759 de la información. Y si no tienes buenos procedimientos, ocurrirá y la empresa no
+00:01:38.079 sabrá lo que hay que hacer. La norma establece unas reglas del juego. Realmente es un sistema de
+00:01:45.119 gestión de seguridad de la información y vamos a encontrar roles y responsabilidades, una gran política de
+00:01:51.960 seguridad de la información, normativas internas, instrucciones técnicas. Al final se resume en cómo se tienen que
+00:01:58.119 hacer las cosas, quién tiene que hacer las cosas y por qué se tienen que hacer esas cosas. Al final se crea un sistema
+00:02:05.079 en el que todo el mundo sabe lo que le toca, cuándo le toca y a quién reportar
+00:02:10.440 en cada caso. Con ello, al final, si ocurre cualquier tipo de evento, va a estar todo muy bien controlado, ya sea
+00:02:17.280 un incidente, ya sea un problema de continuidad de negocio, desde que se vaya la luz hasta que de repente no nos
+00:02:23.000 entre un ataque que nos paralice los sistemas. Y también se controlan aspectos que no son solo ciberseguridad.
+00:02:29.680 Esto lo tenéis que tener clarísimo. Hay controles de ciberseguridad, pero hay muchos controles que son humanos, como a
+00:02:37.319 quién estoy contratando, si lo he formado, si lo he informado, qué roles y competencias tiene, qué le toca hacer,
+00:02:43.920 si tiene cláusula de confidencialidad, si le ha explicado cómo usar los dispositivos y medios de información de
+00:02:50.440 la compañía. Así que hay algo que tenemos que controlar también, que son las personas y por supuesto la parte
+00:02:57.519 física, tu sede, tu lugar de trabajo, tu espacio donde almacenas la información y
+00:03:02.800 los datos, porque por desgracia podemos tener un incendio, podemos tener una
+00:03:08.000 intrusión en ese espacio, podemos tener una pérdida de energía eléctrica y que nos quedemos sin funcionar y todo eso
+00:03:14.480 debe estar gestionado o al menos saber qué hay que hacer en cada caso. que esto va a la película y esto es lo que os voy
+00:03:21.080 a comentar. La norma ISO 27001 tiene una configuración que es muy muy reconocida
+00:03:28.439 en otros estándares ISO. tiene sus 10 primeras cláusulas, que es el gran
+00:03:34.480 cuerpo documental de esta norma, que además se parece y se puede integrar bastante bien con normas como ISO 9001,
+00:03:42.640 14001, es decir, comparten un cuerpo común, el clausulado, que es de lo que
+00:03:47.720 más te voy a hablar en este primer vídeo. Y luego tenemos los controles de
+00:03:53.040 esa norma para ir evidenciando paso a paso los controles que debo cumplir para
+00:03:58.680 que mi sistema de gestión funcione. Y están basados en la norma ISO
+00:04:03.879 27002, que es con la que se va a evidenciar que se cumple la ISO
+00:04:09.360 27001. ¿Cuáles son los tres pilares que nos van a acompañar durante toda esta
+00:04:14.760 norma ISO 27001? Pues vamos a ver la confidencialidad, la integridad y la
+00:04:20.720 disponibilidad de la información. El primero es la confidencialidad. La
+00:04:26.080 confidencialidad hace referencia a, para que nos hagamos una idea, los secretos,
+00:04:31.800 quién tiene que acceder a la información, por qué tiene que hacerlo y cómo controlo quién va a ver cierto tipo
+00:04:40.000 de datos. Esa confidencialidad debe mantenerse y se regula normalmente pues con los acuerdos que tengas con tus
+00:04:46.759 clientes y proveedores y también por la propia normativa. Aunque la ISO 27001 no
+00:04:52.840 te certifica que cumplas con el Reglamento General de Protección de Datos, sí puede ayudarte a evidenciar
+00:04:59.800 los controles que te pide el artículo 32 del RGPD, es decir, los controles más
+00:05:05.520 técnicos. Pero recuerda, la norma ISO 27001 no te va a servir directamente
+00:05:10.639 para decir que cumples con Reglamento General de Protección de Datos porque tengas una confidencialidad muy alta.
+00:05:16.199 Podrías estar tratando datos que legalmente no podrías ni tener en tus sistemas. Luego tenemos la integridad de
+00:05:24.680 la información. La integridad te va a evidenciar cuándo se modifica el
+00:05:30.319 contenido de una información. Es decir, te estás asegurando si una información es íntegra que no sea modificado por
+00:05:36.880 nadie. Fíjate lo importante que sería, por ejemplo, en temas bancarios, saber que ese dato financiero no ha sido
+00:05:43.560 tocado ni alterado y es real. Y luego tenemos la disponibilidad, importantísima. La disponibilidad indica
+00:05:50.520 que la información tiene que estar disponible cuando se necesita. Una pérdida de disponibilidad haría que
+00:05:56.520 intentemos entrar en una web y no se pueda o que quiera loguearme en mi red social y no me lo permita o que, lo
+00:06:03.360 dicho, vaya a sacar dinero al banco y como la información no está disponible no me pueda atender el cajero. Así que
+00:06:10.199 confidencialidad, integridad y disponibilidad. Algunas empresas tendrán que subir el nivel en alguno de estos
+00:06:16.720 tres puntos o dimensiones de seguridad de la información. Una vez que tenemos claro cuáles son las
+00:06:23.440 dimensiones de seguridad que vamos a proteger, tenemos que también tener muy claro de qué van los sistemas de
+00:06:29.360 gestión. Los sistemas de gestión son sistemas de mejora continua, nunca terminan. La idea es eh iniciar un
+00:06:36.639 proceso y tenerlo lo más optimizado posible. Cada año podrás ir aumentando
+00:06:41.800 el grado de madurez. Hay ocasiones donde un control está poco maduro, imaginad al
+00:06:47.039 25%, pero tú ya has planeado durante el año ir subiendo ese nivel hasta
+00:06:52.240 controlarlo al 100%. Ese ciclo se llama PDCA o ciclo de mejora continua y es, en
+00:06:59.599 este caso planificar, hacer, verificar y actuar. Y es una rueda que no termina nunca.
+00:07:07.240 Cuando ya has actuado, pues vuelves a planificar, hacer, verificar y actuar
+00:07:13.280 con el objetivo de reducir al mínimo esos riesgos que vamos a detectar, porque recuerda que el riesgo cero no
+00:07:20.199 existe. Nunca pongas en un análisis de riesgo que algo es improbable, porque si
+00:07:25.319 te pasa, vas a tener un gran problema y vas a tener que dar muchísimas explicaciones. Y ya no solo un auditor,
+00:07:31.680 lo vas a tener que dar posiblemente una autoridad de control o un órgano externo que te pueda
+00:07:38.080 inspeccionar. Uno de los mejores enfoques para abordar una ISO 27001 en toda una organización, porque esto,
+00:07:44.680 recordad, debe eh al final integrarse en una organización completa y tenemos que hacer partícipes a muchas personas,
+00:07:52.039 tiene que ser un enfoque basado en el riesgo. ¿En qué riesgo? pues en el riesgo empresarial, en el riesgo
+00:07:58.000 reputacional, en el riesgo de que ocurra un evento de seguridad y no estemos preparados. Y también un enfoque que
+00:08:04.520 esté muy basado en procesos internos de la compañía. La idea es conocer muy bien esa empresa u organización qué hace y
+00:08:11.360 cómo lo hace e ir adaptándose para lograr que sin tener que cambiar excesivamente las formas de trabajar,
+00:08:18.639 todo se haga de manera segura y respetando los procedimientos de seguridad de la información. Por ello
+00:08:25.080 vamos a empezar con la parte de más alto nivel, ese clausulado de la ISO 27001. Y
+00:08:32.039 el primer punto básico y fundamental es el alcance. El alcance. ¿De qué hablamos en
+00:08:38.919 el alcance? Primero, el alcance de la norma, que es el principio de la misma, habla de que el alcance establece la
+00:08:45.240 finalidad de esta norma, los tipos de organización a la cual se le aplica, las secciones de la propia norma, que se
+00:08:51.399 denominan cláusulas y la propia norma ISO 27001 que está muy diseñada para que sea aplicable en casi todas las
+00:08:58.279 organizaciones. Evidentemente, si tratan información y datos, va a poder implantarse la norma ISO 27001. Pero
+00:09:05.839 ojo, si hablamos de lo que sería ya en la cláusula cuatro, el alcance de tu
+00:09:11.640 sistema de gestión, este es el punto vital e inicial de todo tu sistema y por
+00:09:18.360 donde hay que empezar. Tendrás que definir qué quieres proteger si toda la
+00:09:23.720 organización, todos sus sistemas, todas sus sedes y todas sus áreas, porque esto
+00:09:30.040 es como, imagínate, un gran campo enorme en el que tú vas a poner un vallado y
+00:09:36.240 esas vallas van a delimitar lo que quieres controlar. El alcance es precisamente eso. Puede que no quieras
+00:09:44.079 defender todos tus sistemas y recursos y quieras iniciar por un alcance menos
+00:09:49.760 ambicioso y controlar un sistema concreto o un área concreta. Ese es el
+00:09:55.959 alcance que vas a delimitar. Como estamos indicando, hay un documento esencial en la cláusula
+00:10:02.480 cuatro que se llama alcance, contexto y partes interesadas. El alcance intenta
+00:10:09.519 delimitar lo que vamos a proteger. El alcance tiene que estar muy bien documentado porque además el alcance
+00:10:16.160 después en tu certificado, si es que vas a certificarte, aparecerá claramente
+00:10:21.560 definido, porque la entidad de certificación lo que va a auditarte es según el alcance que tú has definido. Si
+00:10:29.120 tienes una sede en Estados Unidos y no la has metido dentro del alcance, esta
+00:10:34.160 entidad certificadora no te va a evaluar por ello. Hay que dejar muy claro los
+00:10:39.680 límites del lugar o lugares físicos que incluyes en tu sistema de gestión, las
+00:10:45.120 sedes, provincias, lugares donde estás ubicado, los límites de las redes físicas y lógicas que incluimos, los
+00:10:53.279 grupos de empleados, tanto internos como externos, los procesos y actividades que
+00:10:58.639 vamos a incluir y las interfaces claves en los sistemas del ámbito de aplicación. Si quiere priorizar bien los
+00:11:06.000 recursos de un sistema de gestión que no cubra toda la organización, debemos seleccionar un ámbito limitado a la
+00:11:13.079 gestión más importante de los intereses de la empresa. Por ejemplo, todas las operaciones realizadas por el
+00:11:19.519 Departamento de Tecnología de la Información o el alcance de este sistema de gestión serán los sistemas de
+00:11:26.360 información que dan soporte a la gestión del correo electrónico de la compañía o
+00:11:32.160 todos los equipos, sistemas, datos e infraestructuras del centro de datos de
+00:11:38.040 la organización situado en la sede de Madrid. Delimita bien el alcance para
+00:11:43.880 obtener buenos resultados. sobre el contexto. El contexto hace
+00:11:49.480 referencia tanto a tu contexto interno como el externo. Es decir, ¿qué madurez
+00:11:55.600 tienes? ¿Qué tipo de cultura organizativa, tu misión, visión, valores de la compañía, qué tamaño de recursos,
+00:12:02.519 también qué tipos de datos tienes, qué tipo de información vas a manejar y el
+00:12:08.720 contexto externo que debe también estar documentado, como puede ser la competencia que tienes en el sector, e
+00:12:15.399 la normativa que te aplica, porque esto es un punto fundamental, ¿qué normativa te está aplicando? Si estás en Europa y
+00:12:21.399 te aplica el el Reglamento General de Protección de Datos, pues tendrás que tenerlo muy en cuenta cuando estés eh
+00:12:27.279 manejando datos de carácter personal, también problemas geopolíticos si te influyen, consideraciones ambientales.
+00:12:34.880 Esto es muy importante porque la norma ISO tuvo una modificación y en el alcance, contexto y partes interesadas
+00:12:40.839 hay que hacer una referencia también a un tema de medio ambiente, la prevalencia de ataques de seguridad. si
+00:12:46.639 estás sufriendo muchos ataques, si eres un objetivo y, incluso, pues tema accionarial y y de la de la materia
+00:12:54.079 financiera de tu compañía, las partes interesadas son todas aquellas que
+00:12:59.720 pueden estar interesadas en tu sistema de gestión. Las partes interesadas se
+00:13:05.440 irán aclarando poco a poco cuando analicéis el resto de datos de tu compañía. probablemente incluye siempre
+00:13:12.320 a tu alta dirección, los propietarios de la empresa, los reguladores eh y entidades externas que te pueden eh
+00:13:18.959 sancionar también dependiendo un poco de la estructura de la empresa, los empleados, tus competidores, hay que
+00:13:25.040 analizarlo muy bien y para ello se suele hacer un documento llamado DAFO. En ese
+00:13:31.560 documento DAFO analizas también tus debilidades, tus amenazas, tus
+00:13:37.399 fortalezas y tus oportunidades, teniendo en cuenta todo esto que hemos dicho, tus
+00:13:43.399 eh partes interesadas, tu contexto interno y externo. Es un análisis muy
+00:13:48.959 concienzudo de cómo te encuentras tú a nivel interno de la compañía, qué
+00:13:54.160 riesgos tienes o qué oportunidades tienes a nivel externo por el sitio donde estás y el sector en el que te
+00:14:00.560 mueves y también qué oportunidades vas a tener a futuro. Dejo un detalle muy
+00:14:06.759 importante si es que vas a pasar una auditoría. Las ISOs en su cláusula cuatro han tenido que introducir ciertos
+00:14:13.680 cambios relativos a el cambio climático y por eso debemos incluir aspectos como
+00:14:19.800 la la organización que determina si el cambio climático es relevante para ellas
+00:14:25.639 o no. Y eso hay que dejarlo reflejado tanto en la cláusula 4.1 como la cláusula 4.2. Así que te recomiendo que
+00:14:33.000 revises tus documentos si es que ya los tienes hechos. Podéis pensar, "Oye, ¿te has ido
+00:14:38.560 directamente a la cláusula cuatro y hay 10? Nos has dicho sí, pero la cláusula dos y la tres son cláusulas muy breves.
+00:14:46.000 La dos son las referencias normativas de la ISO 27,000, porque los auditores esperan que estén allí, y la eh cláusula
+00:14:53.000 3es son los términos y las abreviaturas que se van a utilizar durante todo el
+00:14:58.639 texto. Así que son cláusulas muy estándar. Bueno, y nos metemos en materia con algunas cláusulas que ya
+00:15:05.360 empiezan a requerir ciertas cosas muy específicas y la cláusula cinco empieza
+00:15:10.560 a tener ya muy claro el tema de los el liderazgo, roles, la política y demás.
+00:15:16.399 Empezamos con otro de los puntos claves de la ISO 272001, la política de
+00:15:22.040 seguridad de la información de la compañía. Este es el pilar básico de
+00:15:27.279 todo tu sistema de gestión de la información. La alta dirección debe establecer una política de seguridad de
+00:15:33.040 la información que sea apropiada para el propósito de la organización. Por eso es
+00:15:38.519 interesante que esa política incluya la misión, visión y valores de la compañía para que estén alineadas. También debe
+00:15:45.880 de incluir los objetivos específicos de seguridad de la información. ¿Qué se
+00:15:51.160 quiere conseguir con esa política? Por ejemplo, reducir el número de incidentes que se han registrado, formar al máximo
+00:15:58.920 número de personas de la plantilla que manejan información o datos o, por ejemplo, establecer un plan de
+00:16:04.959 continuidad de negocio que asegure los servicios de la compañía. También proporcionar el marco para establecer
+00:16:10.639 esos objetivos de seguridad, incluyendo un compromiso por parte de la alta dirección. ¿Compr a qué? a dotar de
+00:16:18.279 recursos tanto humanos como económicos para poder manejar ese sistema de
+00:16:24.920 seguridad de la información. También tiene que haber un compromiso para la mejora continua del sistema. Es decir,
+00:16:32.519 este es un compromiso que la dirección tiene que eh acoger en el tiempo. La
+00:16:38.440 política debe establecer también que marco legal es de aplicación
+00:16:44.519 importante. Tiene que estar firmada por la alta dirección de la compañía. No
+00:16:51.240 debe firmarla ni el responsable de seguridad ni el comité. Alta dirección. Estamos hablando
+00:16:57.480 de que este compromiso tiene que venir de la más alta esfera de la organización
+00:17:03.079 que lo va a asumir. Una vez que tenemos clara la
+00:17:08.199 política, vamos a definir las funciones, responsabilidades y autoridades dentro
+00:17:13.520 de la organización. Es el punto 5.3 de esa cláusula de nuestra norma
+00:17:20.959 ISO. La alta dirección tiene que asegurarse de que se establezcan roles y
+00:17:26.359 responsabilidades del sistema para que todo funcione de manera correcta. Así
+00:17:31.840 que vamos a definir lo primero e interesante es quién participa y cómo va
+00:17:37.440 a participar. Una de las mejores pautas es establecer, y a mí me ha funcionado muy
+00:17:43.320 bien, un comité de seguridad de la información. Ese comité de seguridad de la información es el órgano máximo
+00:17:50.919 dentro de la compañía para determinar ciertas actuaciones que se van a cometer en materia de seguridad. ¿Quién debe de
+00:17:57.840 estar en el comité de seguridad de la información? Evidentemente el responsable de seguridad de la información de la compañía es uno de los
+00:18:05.480 puntos clave y más fuerte. El responsable de seguridad de la información que tiene que estar nombrado
+00:18:11.000 y haber aceptado ese nombramiento por escrito a ser posible participa como
+00:18:16.120 parte activa, pero tiene que haber más personas. Es bueno que haya alguien relacionado con la propiedad de la
+00:18:21.960 información de la compañía, es decir, que pueda determinar quién accede a qué y por qué razón. Sería como un
+00:18:28.559 responsable de la información que se maneja. También es bueno que esté el responsable de sistemas o redes también,
+00:18:36.039 con lo cual tenemos a una persona más técnica que nos puede ayudar, alguien de
+00:18:41.080 recursos humanos o que tenga posibilidad de eh establecer esas pautas, esos eh
+00:18:47.600 compromisos que se van a acoger en el comité dentro de la plantilla de personas trabajadoras de la empresa. Y
+00:18:54.000 es muy bueno que haya alguien relacionado con el marco legal de la compañía o el compliance para que no nos
+00:19:01.039 olvidemos todo lo que se haga cumpla con la norma, porque si hay muchas
+00:19:06.120 decisiones que se pueden tomar en el marco del comité que son estrictamente de seguridad de la información y a lo
+00:19:12.360 mejor nos estamos adaptando alguna regla, por ejemplo, del derecho laboral. Voy a establecer una muy sencilla.
+00:19:18.480 Imaginad que dentro del comité se decide monitorizar los equipos de todos los empleados. Es decir, el comité establece
+00:19:27.200 que se van a hacer unas labores de monitorización para ver dónde acceden los empleados, qué correos mandan y
+00:19:34.240 dónde se conectan. Pero si no hay nadie de legal, puede ser que ese esa
+00:19:39.799 monitorización exceda muchísimo muchísimo el radio que yo puedo
+00:19:46.159 controlar como empresa y a lo mejor me estoy saltando reglas relacionadas con la confidencialidad o la intimidad del
+00:19:53.400 empleado. Por eso tengo que hilar muy fino y saber si esa monitorización puede
+00:19:58.720 ser de todo. Lo puedo ver todo y he informado a los trabajadores de que esto puede ocurrir. Y por ejemplo, casos como
+00:20:05.799 aquí en España tendría que informar y negociarlo hasta con la representación legal de las personas trabajadoras, como
+00:20:12.720 bien dice el artículo 87 de la Ley Orgánica de Protección de Datos y Garantías de Derechos
+00:20:19.520 Digitales. Detalle básico y clave. En el Comité de Seguridad de la Información es muy conveniente que haya alguien que
+00:20:25.520 pueda representar a la alta dirección. Eso va a marcar el compromiso de que
+00:20:31.039 realmente la dirección de la compañía apoya el sistema de gestión y además
+00:20:36.280 durante fase de auditoría probablemente el auditor quiera entrevistarse con alguien de la alta dirección para
+00:20:43.320 revisar que realmente hay un compromiso a llevar a cabo todo lo que se ha dicho
+00:20:48.679 en esa documentación de nuestro sistema de gestión. Nos vamos al punto seis,
+00:20:54.120 planificación. Y aquí ya vamos a tener que empezar a analizar riesgos. Recordad que la ISO 27001 es una un sistema de
+00:21:00.880 gestión basado o enfocado en la gestión de los riesgos para la organización y por tanto tenemos que identificar los
+00:21:07.320 riesgos importantes, garantizar que las actividades y procesos operativos de la organización estén diseñados, dirigidos
+00:21:14.640 y dotados de recursos, responder y adaptarse automáticamente a los cambios para hacer frente a los nuevos riesgos y
+00:21:21.120 tener todo muy bien planificado. Por tanto, es el punto donde vamos a analizar los riesgos, oportunidades,
+00:21:28.840 debilidades y amenazas que ya sacamos en el dafo que hicimos anteriormente.
+00:21:34.440 Cogemos el dafo que ya hicimos con debilidades, amenazas, fortalezas y oportunidades y analizamos uno a uno los
+00:21:41.600 riesgos que hemos incorporado allí para darle una continuidad.
+00:21:46.760 Y nos vamos al punto que más me gusta, el 612, del clausulado, que es el análisis de riesgo o evaluación de
+00:21:52.880 riesgo para la seguridad de la información. Aquí tenemos que establecer muy bien y muy claramente la metodología
+00:21:59.760 que se va a seguir para el análisis de riesgo. Hay muchas metodologías en el mercado y muy buenas. Podéis elegir, por
+00:22:06.520 ejemplo, una ISO 31,000, podéis elegir la 27005, podéis elegir Mayerit, que es
+00:22:12.440 un sistema que funciona estupendamente, pero tenéis que establecer una metodología y dejarlo por escrito porque
+00:22:18.200 tenemos que basarnos en algo. El análisis de riesgo no es algo intuitivo que diga, "Bueno, pues me pueden atacar
+00:22:23.840 el correo electrónico." No, eso no funciona así. Tendrás que determinar qué probabilidad hay de que esto ocurra y
+00:22:30.279 qué impacto podría tener para la seguridad de la información. Por ello, lo mejor en el análisis de riesgo es
+00:22:36.600 establecer lo primero obtener un catálogo de todos los activos que tiene
+00:22:42.279 tu eh sistema, por ejemplo, software, hardware, tienes que tener los activos
+00:22:48.080 determinados que son las personas, las sedes, todo aquello que tiene un valor
+00:22:54.320 para la compañía y que alberga o soporta información o datos. Recordad, las
+00:22:59.400 personas son un activo. Lo bueno de tener los activos catalogados es que le des un valor teniendo en cuenta qué
+00:23:07.080 pasaría si ese activo concreto deja de funcionar, se degrada o lo pierdes.
+00:23:12.960 Imaginad, por ejemplo, que tienes como activo a eh una página web de la
+00:23:18.559 compañía. ¿Qué pasaría si la página web sufre un problema de confidencialidad, de integridad o de disponibilidad? ¿Cómo
+00:23:26.080 se ve afectado tu negocio? Así debes hacer el análisis de riesgo, implementando pues qué probabilidad hay
+00:23:32.279 de que ocurra, qué impacto tendría. Con ello te va a salir el riesgo llamado
+00:23:38.360 inherente, el riesgo antes de establecer tus medidas de seguridad. Y poco a poco,
+00:23:44.600 conforme vayas avanzando y vayas metiendo controles, que veremos en un vídeo todos los controles de la 27002,
+00:23:51.679 ese riesgo inherente irá bajando hasta tener un riesgo residual. Y cuando
+00:23:57.880 tengas ese riesgo residual, porque ya has metido algunas salvaguardas, podrás decidir si lo asumes, si lo transfieres
+00:24:04.679 a un tercero, si lo abordas y lo solucionas. ya vas a tomar mayores decisiones, pero de momento vamos a
+00:24:11.120 analizar el riesgo que tenemos inherente. Con ese listado de riesgos
+00:24:17.279 inherentes tenemos que proponer un plan de tratamiento de riesgos donde vamos a documentar qué posibles soluciones vamos
+00:24:24.640 a darle a los riesgos que hemos detectado. Por ejemplo, imaginad que no tenemos copias de seguridad y eso afecta
+00:24:31.480 de forma muy eh grande a la disponibilidad de la información. Y en el plan de tratamiento, pues se decide
+00:24:38.039 abordar un proyecto de copias de seguridad de la información redundantes en varias ubicaciones o contratar un
+00:24:44.399 servicio en la nube. Es decir, ¿qué vamos a hacer para no perder la información en caso de que tengamos un
+00:24:50.440 problema? Eso en el plan de tratamiento va a requerir sobre todo dejarlo por escrito, poner un responsable que lo
+00:24:57.039 pueda eh seguir y continuar, tener un presupuesto para poderlo abordar y sobre
+00:25:02.080 todo establecer hitos o fases donde vamos avanzando el porcentaje de
+00:25:07.679 implementación de esa medida hasta lograr que esté al 100% y con eso
+00:25:13.080 estaremos reduciendo el riesgo que habíamos encontrado inicialmente. El plan de tratamiento debería estar
+00:25:20.840 aprobado por el comité de seguridad de la información. Una vez que hemos dejado por escrito todo lo que vamos a ir
+00:25:27.120 haciendo, debe de haber un comité, incluso la alta dirección, que lo apruebe, dejando claro que hay que tener
+00:25:34.559 también un presupuesto para abordarlo. Y sobre todo tenemos que aceptar formalmente incluso el nivel de riesgo
+00:25:43.240 residual que vamos a considerar como aceptable. Por ejemplo, si yo considero
+00:25:48.880 aceptable un riesgo bajo, pues yo te voy a ser muy exigente y todos los riesgos
+00:25:54.039 que son medios y altos los voy a gestionar y tengo todo el sistema de gestión muy orientado a ello. Con esto
+00:26:00.799 vamos a tener un plan de tratamiento que sea coherente y que ayude realmente la organización a disminuir el riesgo de
+00:26:07.720 seguridad de la información. Y hemos llegado a un momento clave. Una vez que tenemos ese
+00:26:13.240 análisis de riesgo, vamos a tener que evidenciar y proponer medidas de seguridad para el tratamiento de esos
+00:26:19.799 riesgos. Y para ello vamos a utilizar la ISO 27002, que te explicaré paso a paso en
+00:26:26.679 el siguiente vídeo, viendo uno a uno los controles y cómo los puedes evidenciar o
+00:26:32.720 implementar en tu organización. Pero eso sí, para hacer ese vídeo necesito que apoyéis fuertemente este y poder hacer
+00:26:39.640 el siguiente. Recuerda que ahora sería el buen momento de hacer la declaración de
+00:26:46.360 aplicabilidad o el SOA definitivo. ¿Por qué? porque vas a tener la lista de controles que van a dar tratamiento a
+00:26:54.120 los riesgos que ya has analizado. Con esa lista de controles que ya digo, vienen de la ISO 27002, vas a poder ir
+00:27:01.919 trazando tu estado de madurez en cada uno de los controles y cómo lo vas a implementar dentro de tu organización.
+00:27:08.679 Esa declaración de aplicabilidad debe de estar firmada por el responsable de seguridad de la información o por el
+00:27:14.200 comité de seguridad de la información para reflejar el compromiso de la empresa de aplicar todas las medidas que
+00:27:21.440 contiene esta declaración. De esa lista de 93 controles vas a encontrar muchos
+00:27:27.840 los primeros que son controles organizativos, es decir, políticas, procedimientos y cómo se va a
+00:27:34.120 estructurar todo tu sistema de gestión. Después vas a tener que hacer controles sobre las personas que componen el
+00:27:40.519 sistema de gestión. Esas personas pues tienen unos deberes, unos cumplimientos, han firmado una serie de documentaciones
+00:27:47.000 y cláusulas, has hecho una investigación de antecedentes sobre ellas antes de su
+00:27:52.039 contratación para corroborar que son quien dicen ser. Es decir, todos esos controles sobre personas, también
+00:27:58.399 controles físicos, electricidad, seguridad contra incendios, todo aquello
+00:28:03.600 que pueda afectar físicamente a tus instalaciones, por ejemplo, y también ya los controles tecnológicos. Así que,
+00:28:10.880 como os decía anteriormente, no veáis la norma ISO como una norma exclusivamente
+00:28:16.440 tecnológica, porque como veis hay un gran apartado organizativo sobre personas, sobre el espacio físico y
+00:28:23.640 también sobre la tecnología. Cláusula siete de la norma. ¿Qué encontramos en ella? Pues en esta
+00:28:29.399 cláusula vamos a encontrar el lo que sería el soporte o los recursos del sistema de gestión, como pueden ser
+00:28:35.880 tanto las competencias de las personas que lo forman, la concienciación,
+00:28:41.120 también los recursos que hemos empleado en ella, muy importante la información
+00:28:46.519 documentada, es decir, cómo has estructurado tu sistema de gestión y qué documentos lo conforman. Es muy bueno
+00:28:53.000 que en esta información documentada hayas creado una especie de patrón para etiquetar o nombrar los documentos y
+00:29:00.080 distinguir lo que son políticas, los que son procedimientos y los que son instrucciones técnicas, por ejemplo, y
+00:29:06.600 numerarlos para que sea muy sencillo encontrarlos posteriormente, porque también debes de crear unas reglas de
+00:29:12.480 uso o de acceso a esta documentación. ¿Quién puede acceder? ¿Pueden todos los
+00:29:18.159 todos los trabajadores? ¿Pueden solamente los integrantes del sistema? Y también sería muy bueno, si tienes la
+00:29:23.919 información en un repositorio, que tengas permisos diferenciados para cada
+00:29:29.159 rol del sistema, incluyendo un permiso de auditoría para que cuando el auditor
+00:29:34.559 en fase documental quiera ver tu documentación le des acceso, pero solo para visualizar, ni para poder descargar
+00:29:42.519 los documentos, ni para poder editarlos. La cláusula 8o es una
+00:29:48.159 cláusula ya de acción. Ya nos ponemos a hacer cosas que hemos ido nombrando durante el anterior proceso,
+00:29:54.200 especialmente durante la cláusula seis. Aquí vamos a analizar muy bien la evaluación de riesgos para la seguridad
+00:30:00.360 de la información y un plan de tratamiento perfectamente estructurado. Se tienen que analizar los procesos y
+00:30:07.440 dejar muy claro quién interviene en cada uno de ellos y identificar sistemáticas
+00:30:12.600 de los riesgos de seguridad de la información, definir y comunicar claramente las acciones necesarias que
+00:30:18.919 se van a llevar a término para poder mitigar o transferir esos riesgos que
+00:30:24.360 hemos determinado. asignar muy bien las responsabilidades para llevar a cabo
+00:30:29.880 cada una de las medidas que vamos a implementar y asignar recursos tanto económicos como de tiempo para que todo
+00:30:37.200 eso pueda producirse y sea realista. esa evaluación y ese plan de tratamiento tienen que estar muy bien diseñados y
+00:30:43.960 tienen que además tener un calendario o fase de ejecución para que después
+00:30:49.080 puedas evidenciar que si una medida la tenías propuesta para el último trimestre del año llegó a términos, se
+00:30:55.840 ejecutó y además se puedan ver los resultados. No tienes que tenerlo todo hecho desde el principio, pero tienes
+00:31:02.279 que tener un calendario estructurado con las fases que vas a implementar y las
+00:31:07.720 medidas según la prioridad que tengan. Si un riesgo es muy alto, tendrás que ponerlo al principio. Y si un riesgo es
+00:31:15.720 bastante bajo, pero quieres tenerlo monitorizado, pues te lo puedes llevar más adelante en ese calendario de plan
+00:31:21.639 de tratamiento. Después de empezar a hacer y estar en marcha con todo este plan de
+00:31:26.720 tratamiento, tendremos que tener lo que sería la cláusula nu, que es la evaluación del desempeño. Vamos a ir
+00:31:33.240 midiendo cómo va nuestro sistema de gestión y por tanto tendremos que decidir desde el principio qué métricas
+00:31:39.519 o indicadores me van a confirmar si lo estamos haciendo bien y vamos por buen camino o si nos estamos alejando del
+00:31:45.720 propósito. Por ejemplo, una buena métrica sería el número de reuniones de comité de seguridad de la información
+00:31:51.799 que se van a celebrar durante el año para ir controlando estos puntos durante todo el ciclo o por ejemplo el número de
+00:31:58.360 personas formadas en materia de seguridad de la información o tener, por ejemplo, una métrica de tener en el año
+00:32:04.799 menos de cinco incidentes de seguridad de la información e ir viendo si vamos cumpliendo con esos requisitos o, por
+00:32:10.919 ejemplo, tiempos de respuesta frente a tickets de seguridad de la información. Todo eso lo plasmamos en un documento de
+00:32:17.760 métricas e indicadores o podemos tener un cuadro de mandos hecho en cualquier herramienta para saber en qué punto
+00:32:23.919 estamos, porque además hay que presentarlo cada cierto tiempo a la alta dirección para que también la aprobación
+00:32:30.240 de la alta dirección evalúe ese desempeño y vea si los recursos asignados son suficientes o los tiene
+00:32:36.120 que incrementar. Para ello es importantísimo la auditoría interna. Hay que hacer anualmente o tener un programa
+00:32:42.760 de auditorías que incluya la auditoría interna. de la ISO 27001 y que por una
+00:32:48.159 persona independiente que no haya participado en el sistema de gestión evalúe si lo que estamos haciendo cumple
+00:32:55.639 la norma y tenemos todo en regla o se está desviando encontrando alguna no
+00:33:00.679 conformidad o alguna desviación como decimos o observaciones, sugerencias de mejora y dejar muy claro en la auditoría
+00:33:07.720 interna donde tenemos que focalizarnos antes de abordar la auditoría externa
+00:33:13.559 con la entidad CER. certificadora. Bueno, pues nos falta la última de las cláusulas, la 10. Esta
+00:33:20.799 cláusula 10 de la ISO 27001 es la cláusula de mejoras y eh de no conformidades. Esta cláusula de mejora
+00:33:28.000 dentro de este ciclo PDCA de mejora continua que hemos establecido, lo que realiza es con las no conformidades que
+00:33:34.960 se han detectado en auditorías o tras incidentes de seguridad de la información, se hace un plan de acción
+00:33:41.080 para corregir esas desviaciones y que tengamos un sistema que va alimentándose
+00:33:46.720 y va regenerando todos los fallos que ha encontrado por el camino. Analiza las causas. Se tiene que plantear muy bien
+00:33:53.399 el problema. ¿Por qué ha sucedido un incidente, una no conformidad o una desviación? ¿Quién va a ejecutar los
+00:33:59.559 cambios? ¿Por qué se va a ejecutar? Y esto además va a generar que cuando se vuelva a revisar el sistema tengamos
+00:34:06.200 claro dónde hemos fallado y qué eh podemos mejorar cada vez que hagamos un
+00:34:12.079 ciclo completo. Hemos visto todo este clausulado, todo este cuerpo de la ISO 27001. En los siguientes vídeos vamos a
+00:34:18.679 analizar muy bien el análisis de riesgo de seguridad de la información y lo voy a explicar de una forma muy sencilla y
+00:34:24.520 con ejemplos. Y también en otro vídeo vamos a hacer los controles de la ISO 27002, que es muy importante para tener
+00:34:32.280 claro tu declaración de aplicabilidad y tus controles a implementar. Así que apoyar mucho esta serie de vídeos porque
+00:34:39.119 si quieres saber de normas ISO, este va a ser tu canal. Nos vemos en el
+00:34:44.320 siguiente vídeo.

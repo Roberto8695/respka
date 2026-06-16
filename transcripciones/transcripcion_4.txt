@@ -1,0 +1,633 @@
+# tactiq.io free youtube transcript
+# ISO 27001 Controles organizativos y de personas.
+# https://www.youtube.com/watch/uI99V24T5n0
+
+00:00:00.240 Muy buenas. Seguimos con los vídeos
+00:00:01.800 sobre la norma ISO 27001 de seguridad de
+00:00:04.480 la información. En los anteriores vimos
+00:00:06.480 el clausulado, los controles físicos y
+00:00:08.760 el análisis de riesgo que es
+00:00:10.719 fundamental. Hoy nos vamos a centrar en
+00:00:12.920 los controles organizativos y en los
+00:00:15.320 controles para las personas. dos
+00:00:17.720 importantes bloques con multitud de
+00:00:20.480 elementos que debéis conocer tanto para
+00:00:23.279 superar una auditoría como para
+00:00:25.279 implementar de forma efectiva y correcta
+00:00:27.720 esta importante norma de seguridad de la
+00:00:30.160 información.
+00:00:32.200 En primer lugar, tenemos que decir que
+00:00:33.800 esta norma ISO reestructuró los
+00:00:36.160 controles de seguridad para simplificar
+00:00:38.160 su gestión. Ya no hay como antiguamente
+00:00:40.840 114 controles. Ahora tenemos 93
+00:00:44.200 controles con cuatro grandes dominios.
+00:00:46.840 que sería la seguridad física o
+00:00:48.760 controles físicos de los que ya hemos
+00:00:50.360 hablado, controles organizativos,
+00:00:52.520 controles para las personas y controles
+00:00:55.199 tecnológicos, que lo haré en el
+00:00:57.399 siguiente vídeo. El tema cinco o los
+00:01:00.399 controles del anexo a la 27002 relativos
+00:01:04.319 a ese bloque organizativo, los vamos a
+00:01:06.680 encontrar en el punto cinco. En estos
+00:01:09.880 controles tenemos 37
+00:01:12.720 controles efectivos. Vamos a repasar los
+00:01:15.040 más importantes, aunque te dejaré un
+00:01:17.560 resumen en la descripción de este vídeo.
+00:01:20.119 Podemos considerar a esos controles como
+00:01:22.320 el cerebro de nuestro sistema de
+00:01:24.720 gestión, porque es como vamos a
+00:01:26.560 controlar las políticas, los
+00:01:28.400 procedimientos más importantes del
+00:01:31.119 sistema de gestión de seguridad de la
+00:01:32.479 información. Vamos a empezar con esos
+00:01:34.759 controles tecnológicos y arrancamos por
+00:01:38.119 uno de los que ya hemos visto en el
+00:01:39.399 clausulado, la política para la
+00:01:41.240 seguridad de la información. Aunque sea
+00:01:43.000 un documento que la alta dirección haya
+00:01:45.479 firmado o se haya decidido en un comité
+00:01:47.399 de seguridad de la información, tenemos
+00:01:49.280 que garantizar la idoneidad, adecuación
+00:01:51.360 y efectividad de todos estos controles y
+00:01:54.600 todos los procedimientos. Y eso lo hace
+00:01:56.320 firmando la alta dirección y trasladando
+00:01:58.439 desde arriba todas esas políticas para
+00:02:01.240 que la gran base de trabajadores y
+00:02:04.240 personas que están dentro del alcance
+00:02:06.640 las cumplan. Las políticas globales de
+00:02:09.280 seguridad de la información se firman
+00:02:11.400 normalmente, como digo, por un CEO, por
+00:02:13.400 una alta dirección y se define como el
+00:02:16.400 compromiso de esta empresa para
+00:02:19.080 garantizar la protección de la
+00:02:20.560 información y de los datos. Importante
+00:02:23.800 el siguiente, el 5.2, roles y
+00:02:26.760 responsabilidades, y esto es vital.
+00:02:29.360 ¿Quién va a participar del sistema de
+00:02:31.280 gestión? el responsable de seguridad de
+00:02:32.840 la información, un responsable de
+00:02:34.280 sistemas, el delegado de protección de
+00:02:36.200 datos, el comité de seguridad de la
+00:02:37.840 información. Tenemos que asegurar una
+00:02:39.920 buena estructura de roles y tienen que
+00:02:42.159 conocer muy bien las responsabilidades y
+00:02:45.080 sus obligaciones en la materia.
+00:02:50.360 Esto es un tema estratégico porque
+00:02:52.640 cuando tenemos roles y responsabilidades
+00:02:54.440 y todo el mundo sabe lo que le toca, es
+00:02:56.640 mucho más fácil poder implementar y
+00:02:59.959 averiguar si se está haciendo bien. Y
+00:03:02.200 además, recuerda que la ISO es una norma
+00:03:05.120 de gestión del riesgo y de mejora
+00:03:06.959 continua. Podremos reunirnos, podremos
+00:03:09.159 ver esas capacidades, esas competencias
+00:03:11.720 y decidir aumentar alguna
+00:03:14.000 responsabilidad, dar unos nuevos roles o
+00:03:16.239 controlar los que ya tenemos. Hay uno
+00:03:18.519 que a mí me gusta mucho, es A5.6,
+00:03:21.599 que es en este caso contacto con grupos
+00:03:24.360 de interés especial. Y es fundamental,
+00:03:26.760 se deben establecer y mantener contactos
+00:03:29.400 apropiados con grupos de interés para tu
+00:03:31.840 sistema de gestión de seguridad de la
+00:03:33.599 información, por ejemplo, reguladores.
+00:03:36.040 Por ejemplo, si en tu país hay alguna
+00:03:38.439 agencia nacional de ciberseguridad que
+00:03:40.840 manda información en la materia, pues es
+00:03:43.560 interesante estar suscrito a boletines,
+00:03:45.480 tener ese contacto, incluso foros, foros
+00:03:48.920 de ciberseguridad o grupos de interés
+00:03:51.159 para tu sistema de gestión. También
+00:03:53.159 tenemos uno fundamental y además es un
+00:03:55.920 control nuevo en esta versión de eh 2022
+00:03:58.799 que es inteligencia de amenazas. La
+00:04:02.040 información relativa a las amenazas, a
+00:04:04.319 la seguridad de la información debe
+00:04:06.000 recopilarse y analizarse para producir
+00:04:08.959 información sobre amenazas. Esto, ¿qué
+00:04:11.239 quiere decir? Pues que cuando tengamos
+00:04:13.280 constancia de una amenaza que está
+00:04:15.480 siendo difundida en ese momento, debemos
+00:04:18.079 de analizar cómo nos puede atacar a
+00:04:20.720 nosotros. Se debe establecer reglas, se
+00:04:23.160 deben establecer también informaciones
+00:04:25.280 internas y aumentar el conocimiento de
+00:04:28.600 la organización en estas nuevas amenazas
+00:04:31.360 emergentes. Por ejemplo, imaginad con el
+00:04:34.000 despliegue enorme de inteligencia
+00:04:35.400 artificial han cambiado alguna de las
+00:04:37.560 amenazas y esto se debe de haber
+00:04:39.240 incorporado a nuestro sistema de gestión
+00:04:41.400 con nuevas políticas, procedimientos y
+00:04:44.000 nuevas vías de defensa para estas
+00:04:47.240 amenazas emergentes.
+00:04:50.520 Otro control fundamental es el 5.9,
+00:04:54.199 que es el inventario de información y
+00:04:56.160 otros activos. Aquí tenemos que
+00:04:57.759 identificar los activos en la
+00:04:59.280 organización para asignar las
+00:05:01.160 responsabilidades de protección. Por
+00:05:03.360 ejemplo, mantener una base de datos
+00:05:05.400 actualizada de todos los portátiles,
+00:05:08.199 ordenadores, los servidores, licencias
+00:05:10.759 que tiene la empresa. Así es mucho más
+00:05:13.240 fácil saber quién tiene qué y quién se
+00:05:16.240 hace responsable de un determinado
+00:05:19.160 activo, incluso quién es el propietario
+00:05:21.400 del riesgo de ese activo. Si yo, por
+00:05:23.440 ejemplo, tengo un ordenador portátil que
+00:05:25.319 está etiquetado y que la organización
+00:05:28.240 sabe que me corresponde a mí, que me lo
+00:05:30.360 dieron a mí, yo tengo que hacerme cargo
+00:05:32.600 de la información que contiene y dónde
+00:05:34.840 está, si me voy a conectar desde fuera
+00:05:36.919 de la empresa y si puedo viajar con él
+00:05:39.560 de determinada manera. Esa protección de
+00:05:42.039 ese inventario de activos tiene que
+00:05:44.120 hacerse de una forma muy proactiva por
+00:05:46.680 parte de la empresa. tiene que saber a
+00:05:48.800 quién le pertenece, si está además ese
+00:05:51.160 activo lo tiene perfectamente
+00:05:53.440 actualizado, tiene todas las
+00:05:54.759 configuraciones de seguridad y ya es el
+00:05:57.000 propietario del activo, en ese caso, la
+00:05:58.840 persona o el usuario que tiene ese
+00:06:00.560 portátil, por ejemplo, el que se tiene
+00:06:02.440 que responsabilizar de un uso correcto
+00:06:05.240 cuando llega el tiempo y la forma, es
+00:06:07.840 decir, cuando va a usarlo. Recuerda que
+00:06:11.560 para la gestión de los activos tienes
+00:06:13.199 varios controles. Por ejemplo, el 511,
+00:06:15.759 que es la devolución de los activos,
+00:06:17.720 cuando una persona se va de una
+00:06:19.240 compañía, cómo devuelve el equipo y cómo
+00:06:22.080 tiene que eliminar toda la información
+00:06:24.319 la empresa después de haber estado
+00:06:26.400 asociada a una persona concreta. También
+00:06:28.599 tenemos el uso aceptable de la
+00:06:30.919 información y otros activos asociados.
+00:06:33.720 Es decir, el empleado tiene que saber
+00:06:36.440 cómo se utiliza el dispositivo, para qué
+00:06:38.880 se utiliza el dispositivo y si, por
+00:06:40.759 ejemplo, puede instalar un programa, no
+00:06:42.880 puede hacerlo o si puede compartir
+00:06:44.840 cierta información. Es fundamental que
+00:06:47.240 se le explique cómo utilizar todos los
+00:06:49.840 activos puestos a su disposición.
+00:06:52.520 También es importante el 513, etiquetado
+00:06:55.759 de la información. Este control debe
+00:06:58.879 desarrollarse, implementarse con un
+00:07:00.759 conjunto adecuado de procedimientos para
+00:07:03.039 etiquetar la información. Por ejemplo,
+00:07:05.520 hay muchos niveles, pero los más básicos
+00:07:07.560 suelen ser pues información pública, que
+00:07:09.840 puede ver cualquiera, información
+00:07:11.879 interna de la compañía, de determinados
+00:07:13.720 procesos, información confidencial. Ya
+00:07:17.160 estamos hablando de una información que
+00:07:18.440 solo debería haber un grupo muy reducido
+00:07:20.520 de personas, por ejemplo, las nóminas e
+00:07:22.840 información clasificada, una información
+00:07:25.120 top secret en la en la organización que
+00:07:27.039 a lo mejor solo está a disposición de la
+00:07:28.879 alta dirección o del comité de seguridad
+00:07:31.280 de la información. Ese etiquetado debe
+00:07:33.560 respetarse por toda la compañía y
+00:07:35.520 siempre que accedemos a ciertos datos
+00:07:37.440 debemos saber qué etiqueta de seguridad
+00:07:39.840 tienen para tener claro si yo debería
+00:07:42.280 estar viendo esa información y que la
+00:07:44.360 empresa sepa quién y por qué.
+00:07:47.000 acceden a determinada información de la
+00:07:49.599 compañía.
+00:07:51.599 Si continuamos con los controles
+00:07:53.639 organizativos, podemos encontrarnos, por
+00:07:55.639 ejemplo, el el A514, que es
+00:07:58.000 transferencia de la información, que son
+00:08:00.599 reglas y procedimientos para que tú
+00:08:02.840 puedas transferir cierta información
+00:08:04.800 pues a otros colaboradores, a terceros,
+00:08:06.800 a clientes. ¿Cómo la puedo mandar? por
+00:08:08.879 ejemplo, por correo debe de estar
+00:08:10.680 cifrada o puedo enviar información en
+00:08:14.039 formato físico, documentación a través
+00:08:16.879 de paquetería. Tiene que estar muy bien
+00:08:19.240 definido. También vamos a tener un
+00:08:20.919 control muy importante, este no lo
+00:08:23.159 dejéis pasar, que es el A515.
+00:08:26.400 En este caso, el control de acceso se
+00:08:28.520 tienen que establecer las reglas muy
+00:08:31.319 claras para eh implementar control de
+00:08:34.880 acceso, tanto físico como lógico, a la
+00:08:38.279 información y otros activos asociados.
+00:08:40.679 Es decir, tanto información en formato
+00:08:43.799 papel como en formato lógico tienen que
+00:08:46.720 estar muy bien definidas cómo y quién
+00:08:49.519 accede a ellas. Imagínate si alguien
+00:08:51.839 entra en nuestras instalaciones y se
+00:08:53.279 sienta en un dispositivo, en un
+00:08:54.920 ordenador y empieza a teclear y ve
+00:08:56.399 información en pantalla, no vamos a
+00:08:58.279 controlar ese acceso. Por tanto, tiene
+00:09:00.640 que ser físico y tiene que ser lógico.
+00:09:02.800 Igual que implementas usuarios,
+00:09:04.279 contraseñas y políticas de acceso a
+00:09:06.600 determinadas carpetas y recursos, tienes
+00:09:08.959 que controlarlo a nivel físico. ¿Quién
+00:09:11.480 accede a qué en cada momento? Hay otro
+00:09:14.720 grupo, normalmente el que va del 519 al
+00:09:19.279 521, que son los eh los controles
+00:09:22.720 relacionados con tu cadena de suministro
+00:09:24.720 o tus proveedores. En este caso, tanto
+00:09:27.320 la seguridad de la información en la
+00:09:28.760 relación con los proveedores como la
+00:09:30.920 gestión de seguridad de la información
+00:09:32.440 en la cadena de suministro completa.
+00:09:34.600 Esto es fundamental y es organizativo.
+00:09:36.760 Desde que se firma un contrato con un
+00:09:38.320 cliente o un proveedor, hay que
+00:09:39.800 establecer reglas de seguridad. ¿Quién
+00:09:43.200 accede a la información? ¿Cómo se
+00:09:44.880 transmite? Incluso eh como vamos a
+00:09:47.360 firmar un contrato, incumplimientos de
+00:09:49.920 estas normas, qué va a ocurrir y
+00:09:52.480 responsabilidades en la materia.
+00:09:54.399 Recuerda incluso que si además ese
+00:09:56.160 proveedor accede a datos de carácter
+00:09:59.279 personal, tendrás que firmar un contrato
+00:10:02.120 de encargado del tratamiento, ya seas en
+00:10:05.160 rol de responsable o de encargado del
+00:10:06.959 tratamiento de datos personales, pero
+00:10:08.519 recuerda que tienes que estar muy
+00:10:10.000 definido. Y además, ¿cómo vamos a
+00:10:12.000 monitorear que ese eh proveedor o esa
+00:10:15.000 cadena de suministro funciona
+00:10:16.560 correctamente? Vamos a auditarlo cada
+00:10:18.640 cierto tiempo. Tenemos visibilidad en
+00:10:21.200 nuestro en nuestras herramientas para
+00:10:23.360 ver si ese proveedor cumple o incumple
+00:10:26.000 las reglas de seguridad. Todo eso hay
+00:10:28.079 que también dejarlo muy bien definido.
+00:10:30.880 Hay un control nuevo que es el 523 que
+00:10:33.680 es muy muy interesante y muy de
+00:10:35.880 actualidad se ha incorporado en esta
+00:10:37.560 nueva versión de 2022. En este caso se
+00:10:39.800 llama seguridad de la información para
+00:10:41.720 el uso de los servicios en la nube. Y es
+00:10:43.639 que es ya bastante raro que alguien no
+00:10:45.680 esté utilizando algún servicio cloud. Y
+00:10:48.519 en este caso tienes que especificar y
+00:10:50.720 gestionar qué tipo de servicio te dan y
+00:10:54.519 qué riesgos puede conllevar para tu
+00:10:56.880 compañía, ya sea un servicio SAS, PAS o
+00:11:00.040 Yas. Hay que definir una matriz de
+00:11:02.360 responsabilidades compartidas con, por
+00:11:04.279 ejemplo, algunos proveedores que son muy
+00:11:06.920 grandes, tipo Amazon Web Service, Azure,
+00:11:09.760 para saber quién parchea el sistema
+00:11:12.120 operativo y también roles y estrategias
+00:11:15.160 de control y gestión de esa información
+00:11:18.200 y datos. Sin duda, de los organizativos
+00:11:21.440 más importantes son aquellos
+00:11:23.079 relacionados con la resiliencia y la
+00:11:25.279 respuesta a incidentes de seguridad de
+00:11:27.160 la información. vas a encontrar, como
+00:11:29.040 ves en pantalla, algunos de ellos en los
+00:11:32.079 siguientes controles. Ten en cuenta que
+00:11:34.160 debemos tener un buen procedimiento de
+00:11:35.959 gestión de incidentes y te interesa que
+00:11:37.800 sea integral desde que se detecta un
+00:11:41.079 incidente, cómo se evalúa, se reporta o
+00:11:44.839 se escala, se analiza completamente y
+00:11:47.720 además tenemos unas lecciones aprendidas
+00:11:50.600 o un conocimiento de lo sucedido, porque
+00:11:53.560 puede ser que además el incidente puede
+00:11:55.560 empezar como una pequeña incidencia y
+00:11:56.959 que pase un incidente se tenga que
+00:11:58.560 reportarla a las autoridades o incluso a
+00:12:01.200 los usuarios de los cuales Estamos
+00:12:03.160 tratando información y datos, así que
+00:12:05.079 hay que tener un procedimiento integral
+00:12:07.120 que defina todos los pasos. Incluso
+00:12:09.480 muchas organizaciones tienen un
+00:12:11.399 procedimiento de actuación con un comité
+00:12:13.880 de crisis, porque sí, un incidente de
+00:12:15.880 seguridad puede llegar a ser una crisis
+00:12:18.600 en tu organización. Hay algunas empresas
+00:12:21.519 que tras un incidente han estado
+00:12:23.199 paralizadas durante mucho tiempo y
+00:12:24.680 quiero recordar que las pequeñas
+00:12:26.079 empresas tras un incidente como un buen
+00:12:29.279 un ciberataque, muchas de ellas no
+00:12:31.320 remontan porque pierden su información,
+00:12:33.279 sus datos y no son capaces de levantar
+00:12:36.040 el negocio. Así que es fundamental, es
+00:12:37.480 una de las bases de esta norma ISO, ¿no?
+00:12:39.959 Esa capacidad de respuesta a incidentes.
+00:12:42.360 Tenemos que asegurar una respuesta
+00:12:44.120 rápida, efectiva y sobre todo trazable
+00:12:48.360 del incidente detectado con herramientas
+00:12:50.560 de monitorización, de vigilancia, de
+00:12:53.199 reporte y que generen además evidencias
+00:12:55.959 digitales. Tenemos que categorizar y
+00:12:59.120 priorizar los eventos. Evidentemente los
+00:13:01.440 recursos no son ilimitados y a veces no
+00:13:03.360 se puede ir a todo. Hay que catalogar
+00:13:04.920 muy bien lo que es una incidencia y lo
+00:13:06.160 que es un incidente y qué tipo de
+00:13:08.079 incidentes hay y qué vulnerabilidades me
+00:13:10.800 puede causar en mi sistema y en base a
+00:13:12.720 eso responder. Con lo cual tengo mis
+00:13:15.560 recursos destinados sabiendo qué puede
+00:13:17.800 ocurrir y quién tiene que hacer cada
+00:13:19.839 tarea. Y también asegurar la
+00:13:21.639 disponibilidad de los sistemas críticos
+00:13:23.440 durante una interrupción de un servicio.
+00:13:25.839 tenemos que caer en que puede
+00:13:27.079 interrumpirse un servicio cuando hay un
+00:13:29.360 incidente y qué vamos a hacer en esos
+00:13:32.199 casos. Por tanto, hay que definir mis eh
+00:13:34.920 tiempos de recuperación, tiempos de
+00:13:36.680 respuesta, copias de seguridad y tener
+00:13:39.560 también un plan B. Si tienes
+00:13:41.040 desarrollado un plan de continuidad de
+00:13:42.680 negocio, mejor que mejor. Pasamos a
+00:13:45.680 alguno de los controles que más me
+00:13:47.040 gustan y entenderéis por qué. Si veis el
+00:13:49.760 resto de mis vídeos, vamos a hablar de
+00:13:51.600 proteger el negocio de la parte más
+00:13:53.560 legal. Y es que sí, la norma ISO 27001
+00:13:56.720 tiene muchísimos controles tecnológicos
+00:13:58.639 y la entendemos como seguridad de la
+00:14:00.199 información, pero se basa en normas, en
+00:14:02.440 obligaciones de las empresas y, por
+00:14:04.759 supuesto, tenemos que trazar todo el
+00:14:07.240 marco legal de aplicación para saber que
+00:14:09.399 lo estoy haciendo bien y que no voy a
+00:14:11.120 incumplir ninguna legislación ni local
+00:14:13.839 ni eh extraterritorial en algunos casos.
+00:14:16.800 Por ejemplo, aquí en Europa pues hay
+00:14:18.720 directivas, reglamentos, luego tenemos
+00:14:21.519 legislaciones eh en nuestro propio país,
+00:14:24.199 incluso reales secretos que nos pueden
+00:14:26.000 afectar. Tenemos que definir, por tanto,
+00:14:28.160 en el punto 531 los requisitos legales
+00:14:31.440 de mi sistema de gestión. No solo
+00:14:33.800 legales, también incluso contractuales.
+00:14:36.560 ¿Tengo algún acuerdo con un proveedor o
+00:14:38.880 cliente que me obliga a responder en
+00:14:40.880 determinado tiempo? Imagina que yo tengo
+00:14:43.320 unos contratos con una SLA del servicio
+00:14:46.199 que en menos de 4 horas te tengo que dar
+00:14:48.399 servicio siempre y me me he comprometido
+00:14:51.240 por un contrato a ello, pero yo no he
+00:14:53.040 hecho bien mis tareas en disponibilidad
+00:14:55.079 y no tengo un plan B, de repente tengo
+00:14:56.880 un incidente y durante días no puedo
+00:14:58.880 darte respuesta, pues evidentemente es
+00:15:00.600 un incumplimiento del contrato y
+00:15:02.279 podríamos tener un problema legal, así
+00:15:04.440 que hay que tenerlo muy claro. También
+00:15:06.399 tengo el 532, que son los derechos de
+00:15:08.680 propiedad intelectual. Todo el software
+00:15:11.040 que tienes está licenciado. Podrías
+00:15:13.759 demostrarlo podrías demostrar que todo
+00:15:16.399 lo que utilizas está bajo licencia,
+00:15:19.240 incluso logos de tus clientes que tienes
+00:15:22.040 en tu web y demás. Es importantísimo
+00:15:24.800 tener claro las licencias y la propiedad
+00:15:27.720 intelectual, cómo se gestiona en la
+00:15:29.920 compañía. Y es bueno definirlo en un
+00:15:32.000 protocolo y el que más me gusta por mi
+00:15:34.920 profesión y mi trabajo, el 5.34,
+00:15:38.240 que es la privacidad y la protección de
+00:15:40.600 datos personales.
+00:15:42.600 Recuerda que según tu país o tu
+00:15:44.800 territorio vas a estar sometido a un
+00:15:46.720 tipo de legislación en materia de
+00:15:48.279 protección de datos. En Europa nos
+00:15:49.959 regimos por el reglamento general de
+00:15:51.519 protección de datos, pero en otras
+00:15:53.600 partes del mundo hay otro tipo de
+00:15:55.839 normativas. Muchas de ellas van a
+00:15:57.920 encontrar un nexo común y es decir, yo
+00:16:00.279 tengo que cumplir con requisitos de
+00:16:02.120 privacidad impuestos por leyes, en este
+00:16:05.680 caso leyes que afectan a datos
+00:16:07.959 personales. Si en tu sistema se manejan
+00:16:10.079 datos de carácter personal, en este en
+00:16:12.720 este punto vas a tener que, por ejemplo,
+00:16:14.959 tener a disposición evaluaciones de
+00:16:16.759 impacto si procede, registros de
+00:16:19.360 actividad de tratamiento, análisis de
+00:16:20.880 riesgo relacionadas con privacidad, no
+00:16:23.680 solo seguridad de la información, sino
+00:16:25.240 privacidad, enmascaramiento de datos, eh
+00:16:28.240 anonimización de datos, lo que vaya
+00:16:30.800 entrando en este punto. Incluso también
+00:16:33.319 un procedimiento para el ejercicio de
+00:16:35.079 derechos en materia de protección de
+00:16:36.480 datos, nombramiento de un delegado de
+00:16:38.120 protección de datos si procede y
+00:16:40.079 multitud de controles que en este punto
+00:16:42.839 te pueden solicitar. Porque además no es
+00:16:45.199 que te lo pidan en una auditoría, es que
+00:16:46.600 este es un requisito legal que tienes
+00:16:48.120 que controlar siempre. Si lo metes
+00:16:50.120 dentro de tu sistema de gestión de
+00:16:51.920 seguridad de la información, estará
+00:16:54.399 mejor controlado, podrás monitorizarlo y
+00:16:57.680 además podrás mejorarlo con el paso del
+00:17:00.759 tiempo, que es uno de los requisitos de
+00:17:02.560 casi todas las normas de protección de
+00:17:04.199 datos, mejora continua y gestión del
+00:17:06.480 riesgo.
+00:17:08.959 Y visto alguno de estos controles
+00:17:10.480 esenciales organizativos, nos metemos
+00:17:12.679 con unos de los controles que van a ser
+00:17:14.919 más, entre comillas, complicados en
+00:17:17.679 algunas organizaciones. Depende el
+00:17:19.400 tamaño que es el control de las
+00:17:21.199 personas, el factor humano. La
+00:17:23.119 tecnología puede fallar, pero en una
+00:17:25.559 cultura de seguridad sólida la última
+00:17:27.799 línea de defensa son las personas.
+00:17:30.520 Muchos controles de las personas eh van
+00:17:33.160 a entrar desde que un empleado se
+00:17:35.559 contrata, desde la fase de
+00:17:37.760 reclutamiento, porque yo ya estoy
+00:17:39.559 contratando un empleado, le estoy
+00:17:40.880 formando, le estoy dando sus equipos,
+00:17:42.799 estoy vigilando que los usa bien y
+00:17:44.720 devolviendo sus equipos cuando abandona
+00:17:46.840 el empleo. Así que hay que tener esa
+00:17:49.039 fase de control del empleado en tres
+00:17:51.160 momentos esenciales: antes del empleo,
+00:17:53.360 durante el empleo y cuando cesa su
+00:17:56.000 trabajo en la compañía. El primero de
+00:17:58.159 los puntos, os vais a encontrar sobre
+00:18:00.159 todo estos controles en el en el anexo
+00:18:02.880 A.6, es decir, por ejemplo, el cribado o
+00:18:07.400 la comprobación de antecedentes, como se
+00:18:09.159 decía antiguamente, el 6.1, lo que busca
+00:18:11.480 es que cuando se va a contratar a un
+00:18:13.520 empleado se haga una buena visualización
+00:18:17.080 de su perfil y además se le requieran
+00:18:19.480 los títulos y certificaciones que
+00:18:21.720 evidencian esa contratación. a grandes
+00:18:24.360 rasgos. Si estáis buscando un médico,
+00:18:26.440 evidentemente le exigiré que tenga
+00:18:29.240 título para ejercer la medicina en mi
+00:18:31.880 país. Con lo cual, en esa investigación
+00:18:34.559 tengo que acreditar que los títulos son
+00:18:36.159 oficiales, las certificaciones son
+00:18:37.880 válidas y todo su expediente es como
+00:18:41.080 debería ser. Esa fase de comprobación de
+00:18:45.039 antecedentes. En el 6.2 Punto dos, me
+00:18:47.440 voy a encontrar términos y condiciones
+00:18:49.919 de la contratación, que es fundamental
+00:18:52.240 lo que firma el empleado, un contrato,
+00:18:55.120 NDA, por ejemplo, un acuerdo de
+00:18:56.840 confidencialidad, uso de dispositivos
+00:18:59.159 corporativos, las reglas del juego que
+00:19:01.159 le voy a dar a mis empleados cuando
+00:19:02.679 entran en la compañía y es fundamental
+00:19:04.720 que le explique muy bien qué pueden
+00:19:06.159 hacer, cuándo pueden hacerlo, a quién
+00:19:08.200 tienen que reportar un incidente o un
+00:19:09.960 problema, sus derechos en materia de
+00:19:11.799 protección de datos y ese uso de
+00:19:13.520 dispositivos corporativos que, como te
+00:19:15.200 dije en el primer vídeo, tiene que estar
+00:19:16.960 muy bien trazado. Explícale bien al
+00:19:19.039 empleado qué puede y qué no puede hacer,
+00:19:20.960 porque en base de esas reglas del juego,
+00:19:23.039 luego nos vamos a desempeñar en nuestro
+00:19:25.159 sistema de gestión. Después voy a tener
+00:19:27.240 los controles que son más de tipo eh
+00:19:29.840 educativo, como el 6.3, Punto tres,
+00:19:31.640 concienciación, educación, formación al
+00:19:33.720 empleado. En este punto, lo esencial es
+00:19:36.159 que tenga ciertas píldoras de
+00:19:37.679 sensibilización durante el año y alguna
+00:19:39.960 formación más específica a ese rol o a
+00:19:42.720 esa persona en materia de seguridad de
+00:19:44.520 la información y también en protección
+00:19:46.080 de datos personales. No tiene que ser
+00:19:47.960 una formación reglada de x horas, pero
+00:19:49.960 te conviene siempre evidenciar listado
+00:19:52.679 de asistencia de personas a la formación
+00:19:55.159 y acreditar con algún diploma de
+00:19:56.799 aprovechamiento que se ha hecho esa
+00:19:58.280 jornada formativa. si se puede hacer un
+00:20:00.360 test de superación muchísimo mejor,
+00:20:02.679 porque la evidencia será más sólida y el
+00:20:04.960 propósito, que es formar al empleado,
+00:20:07.320 seguramente sea más próspero para la
+00:20:10.480 compañía y sobre todo, evidentemente, el
+00:20:12.720 empleado va a tener mayor conocimiento
+00:20:14.880 para después aplicar en su día a día.
+00:20:17.600 También en cuenta que esta es una parte
+00:20:18.960 que queda un poco feo, pero el 6.4 es el
+00:20:21.360 proceso disciplinario, es decir, si
+00:20:23.240 incumplo esos deberes a los que me he eh
+00:20:26.159 sometido cuando he firmado el contrato,
+00:20:27.840 ¿qué puede pasar? Recuerda que una
+00:20:29.679 política sin medidas disciplinarias es
+00:20:31.880 totalmente estéril. Si yo le digo a un
+00:20:33.559 empleado que no puede instalar el
+00:20:34.760 software maricioso en mi compañía y lo
+00:20:37.200 instala y no hago nada, pues yo no estoy
+00:20:39.039 supervisando esa política ni estoy
+00:20:41.039 realizando mis labores de forma
+00:20:42.840 correcta. Así que el proceso
+00:20:44.440 disciplinario tiene que ser muy claro.
+00:20:46.679 ¿Por qué puede ser sancionado el
+00:20:48.000 empleado? ¿Quién lo puede sancionar? si
+00:20:50.360 tiene todas las garantías de defensa en
+00:20:53.080 esa sanción y sobre todo cómo se
+00:20:55.120 recopilan evidencias para poder
+00:20:57.120 demostrar si se ha incumplido una norma
+00:20:59.640 o una política interna. Tienes que
+00:21:01.480 definirlo muy bien. El siguiente punto
+00:21:04.360 son las responsabilidades cuando eh hay
+00:21:07.000 un cambio o una finalización de
+00:21:08.720 contrato, no solamente cuando el
+00:21:10.760 empleado se va, imagínate que tiene un
+00:21:12.559 puesto ejecutivo y de repente cambia y
+00:21:16.200 sus funciones son otras y ya no tiene
+00:21:18.120 que acceder a la misma información. o a
+00:21:20.200 la misma eh información privilegiada,
+00:21:23.000 con lo cual tenemos que cambiar también
+00:21:25.440 sus roles, usuarios, también tenemos que
+00:21:27.520 ver a qué accede sus requisitos para si
+00:21:30.080 antes tenía, por ejemplo, entrada
+00:21:32.000 permitida en un en un espacio con la
+00:21:34.720 dirección, ahora ya no lo tiene. Por
+00:21:36.600 tanto, hay que renovarlo correctamente y
+00:21:38.720 dejar traza de todo. Tienes que tener
+00:21:40.880 muy claro que si los empleados hacen
+00:21:42.760 teletrabajo o formato híbrido, debería
+00:21:45.520 estar también en una política de
+00:21:47.360 teletrabajo. Es el punto seis.
+00:21:49.880 eh el A6.7.
+00:21:52.760 Aquí hay que definir quién puede
+00:21:54.240 teletrabajar, cómo hacerlo, si hay
+00:21:56.039 alguna herramienta como una VPN y además
+00:21:59.440 establecer muy bien medidas de seguridad
+00:22:01.520 para ese teletrabajador, como puede ser
+00:22:04.360 que no se pueda conectar a wifis
+00:22:06.240 públicas o a Bluetooth y dejarle muy
+00:22:08.559 claro que en el teletrabajo hay una
+00:22:10.559 serie de riesgos asociados. Si tiene un
+00:22:13.200 dispositivo portátil en su casa y no
+00:22:15.159 está en una oficina, ¿quién está al otro
+00:22:16.720 lado del ordenador? Se puede sentar un
+00:22:18.600 familiar. puede ver eh puede
+00:22:20.279 teletrabajar en la playa, deja todo esto
+00:22:22.240 muy bien definido en una política de
+00:22:24.400 teletrabajo
+00:22:26.200 y también, por supuesto, el control 6.8,
+00:22:29.520 que es la notificación de eventos de
+00:22:31.480 seguridad de la información. Tenemos que
+00:22:33.559 tener un procedimiento muy claro, muy
+00:22:35.440 específico y muy rápido para notificar
+00:22:38.279 un evento de seguridad, ya sea un
+00:22:39.760 incidente, una incidencia, un correo
+00:22:42.240 fishing que le llega al empleado y tiene
+00:22:43.799 que saber cómo proceder y todo el mundo
+00:22:46.159 en la compañía debería conocerlo y
+00:22:48.880 repetirlo casi de memoria. Es una de las
+00:22:51.120 píldoras de sensibilización más fuertes
+00:22:53.440 que hay que hacer. si me llega algo que
+00:22:55.840 no es correcto, a quién reporto y cuánto
+00:22:58.520 tiempo tengo. Procediméntalo todo para
+00:23:01.360 que puedas después funcionar de forma
+00:23:03.360 correcta, porque el objetivo es detectar
+00:23:05.159 rápido que todo el mundo siga el mismo
+00:23:07.400 procedimiento y que además podamos
+00:23:09.559 resolver las incidencias. Por eso es muy
+00:23:11.960 bueno que en tu procedimiento de gestión
+00:23:13.799 de incidentes también tengas pues estas
+00:23:16.360 vías de reporte, ya sea en forma de
+00:23:18.600 ticketing, correo, de soporte o incluso
+00:23:22.039 llamada de urgencia cuando estamos ante
+00:23:23.919 un incidente grave de seguridad. Por
+00:23:26.200 ejemplo, a un empleado le roban un
+00:23:28.159 dispositivo que tiene muchísima
+00:23:29.600 información, que pueda rápidamente
+00:23:32.279 llamar a su empresa, notificar la
+00:23:34.600 incidencia y que ese ese dispositivo no
+00:23:37.559 tenga acceso al sistema o se pueda
+00:23:39.840 borrar en remoto. Todo esto hay que
+00:23:41.799 tenerlo muy bien gestionado y has visto
+00:23:43.679 los controles organizativos y los
+00:23:46.159 controles relacionados con las personas,
+00:23:48.679 dos bloques fundamentales en tu sistema
+00:23:51.360 de gestión de seguridad de la
+00:23:52.600 información. El próximo vídeo te espero
+00:23:54.799 para hablar de los controles
+00:23:56.400 tecnológicos que son los que más suelen
+00:23:58.919 interesar a todas las compañías.

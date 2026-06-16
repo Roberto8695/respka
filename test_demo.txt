@@ -1,0 +1,5 @@
+La fotosíntesis es el proceso mediante el cual las plantas convierten la luz solar en energía química. Este proceso ocurre en los cloroplastos, donde la clorofila captura la energía lumínica y la transforma en glucosa y oxígeno. La fotosíntesis se divide en dos fases: la fase luminosa y la fase oscura (ciclo de Calvin).
+
+En la fase luminosa, la luz solar es absorbida por la clorofila y se produce ATP y NADPH. En la fase oscura, el CO2 atmosférico es fijado y convertido en glucosa utilizando la energía del ATP y NADPH generados en la fase anterior.
+
+La fotosíntesis es fundamental para la vida en la Tierra porque produce el oxígeno que respiramos y es la base de la cadena alimenticia.

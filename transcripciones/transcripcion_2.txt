@@ -1,0 +1,725 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/I2ggAzTUAOU
+
+00:00:00.440 Muy buenas. Hoy os traigo un vídeo que
+00:00:02.120 me habéis pedido muchísimo y es que el
+00:00:04.000 análisis de riesgo es un elemento clave
+00:00:06.640 en cualquier sistema de gestión, ya sea
+00:00:08.719 de seguridad de la información o de
+00:00:10.120 protección de datos personales. Cuando
+00:00:12.160 tienes un análisis de riesgo muy bien
+00:00:13.880 hecho y exhaustivo, te permite priorizar
+00:00:16.279 tareas, saber qué posibles problemas vas
+00:00:19.119 a tener a futuro, establecer qué hay que
+00:00:21.480 hacer, quién lo hace y cuándo lo hace. Y
+00:00:24.080 este elemento va a ser al final el motor
+00:00:26.960 que mueva tu sistema de gestión. Porque
+00:00:28.640 no olvidéis, como decimos en el primer
+00:00:30.320 vídeo, si no lo habéis visto, por aquí
+00:00:31.720 lo tenéis, que los sistemas de gestión
+00:00:34.520 están basados normalmente en esa gestión
+00:00:36.719 del riesgo. Es decir, vamos a partir de
+00:00:39.040 una base de que algo puede ocurrir y
+00:00:41.360 tendría un impacto para nuestra
+00:00:42.879 organización. Y una vez que hemos
+00:00:44.600 analizado esto muy bien, vamos a tener
+00:00:46.640 muy clara la hoja de ruta y el plan de
+00:00:48.879 tratamiento para solventar estos
+00:00:51.120 posibles peligros y que no lleguen a
+00:00:53.640 materializarse. Recuerda, antes de que
+00:00:55.760 veamos la metodología y cómo se realiza
+00:00:57.920 ese análisis de riesgo, que la
+00:00:59.519 diferencia entre un análisis de riesgo
+00:01:01.160 de seguridad de la información y uno de
+00:01:02.920 protección de datos personales está
+00:01:05.040 claramente en el foco del análisis, es
+00:01:07.840 decir, en un análisis de riesgo de
+00:01:09.600 seguridad de la información, el foco
+00:01:11.560 central está en cómo proteger el
+00:01:14.200 negocio. Es decir, esa empresa u
+00:01:16.320 organización va a evaluar los peligros
+00:01:18.560 que tiene para su continuidad de
+00:01:20.400 negocio, la seguridad de sus activos, la
+00:01:22.720 información y los datos que guarda. Pero
+00:01:25.200 cuando hablamos de protección de datos
+00:01:27.119 personales, el foco central donde
+00:01:29.040 tenemos que pensar es en el usuario, en
+00:01:30.799 el interesado, el titular de los datos
+00:01:33.360 personales. Porque recuerda, cuando
+00:01:35.280 hablamos de protección de datos, ese
+00:01:37.439 titular al estar en el foco del riesgo
+00:01:40.159 tenemos que evaluar qué peligros
+00:01:42.159 sufriría si se pierden sus datos, su
+00:01:44.680 confidencialidad, la integridad, si se
+00:01:46.920 pierde la trazabilidad y qué problemas
+00:01:49.000 tendría el usuario, por supuesto,
+00:01:51.280 también el negocio que está guardando
+00:01:52.719 esos datos. Pero al centrar el foco en
+00:01:55.079 el usuario, tu análisis de riesgo de
+00:01:57.320 protección de datos personales será
+00:01:59.000 mucho más preciso y tendrías que
+00:02:00.880 incorporar también un buen análisis de
+00:02:03.240 la proporcionalidad del tratamiento, la
+00:02:05.280 idoneidad y la necesidad del tratamiento
+00:02:08.080 para que sea más completo. Hoy nos
+00:02:10.119 centramos en seguridad de la
+00:02:11.720 información, la ISO 27001 como base. Y
+00:02:14.879 en ese análisis de riesgo podéis
+00:02:16.400 utilizar muchas metodologías que hay en
+00:02:18.480 el mercado y están internacionalmente
+00:02:21.000 muy bien definidas como puede ser la ISO
+00:02:23.200 27005, la ISO 31001 o el sistema Myerit
+00:02:27.920 que se utiliza mucho en
+00:02:29.800 España. Uno de los elementos que no te
+00:02:32.000 suelen explicar nunca cuando se aborda
+00:02:33.560 un análisis de riesgo y lo hace
+00:02:35.680 especialmente bueno es el contexto de
+00:02:38.599 esa organización, es decir, dónde se
+00:02:40.720 encuentran, qué territorio, qué roles lo
+00:02:42.720 componen, qué procesos internos tiene y
+00:02:45.120 sobre qué normas tiene que regular sus
+00:02:47.800 procesos internos. No es lo mismo una
+00:02:50.200 empresa que esté, por ejemplo, en
+00:02:51.480 Estados Unidos que una empresa que esté
+00:02:53.000 en Europa le van a afectar unas
+00:02:55.280 normativas diferentes y por lo tanto
+00:02:57.280 tendrá que establecer un análisis de
+00:02:59.360 riesgo con ciertos parámetros distintos.
+00:03:02.400 Así que el contexto hay que analizarlo
+00:03:04.280 muy bien y describirlo muy bien. Incluso
+00:03:06.680 en la misma organización, en el mismo
+00:03:08.319 sitio, no va a tener el mismo tipo de
+00:03:10.959 riesgo en una época del año que en otra.
+00:03:13.799 Por eso el análisis de riesgo es un
+00:03:15.159 documento vivo que se va a tener que
+00:03:17.319 abrir en varias ocasiones durante el año
+00:03:19.480 y se van a tener que revisar las
+00:03:20.920 medidas. Es más, conforme vayas
+00:03:23.480 ejecutando acciones de ese plan de
+00:03:25.599 tratamiento, algunos riesgos van a
+00:03:27.480 cambiar, se van a mitigar totalmente y
+00:03:29.760 otros vas a tener que implementar
+00:03:31.640 mayores medidas de seguridad para poder
+00:03:33.920 paliarlos. Un ejemplo muy sencillo,
+00:03:36.159 imaginad que tenemos un análisis de
+00:03:38.120 riesgo que se ha hecho en el mes de
+00:03:39.439 febrero, cuando la empresa está
+00:03:40.879 relativamente tranquila, se han aprobado
+00:03:43.000 presupuestos y todo el mundo está
+00:03:44.760 trabajando con normalidad. Vamos a ver
+00:03:46.640 un tipo de amenazas, pero cuando llega
+00:03:48.840 el mes de agosto, esos mismos
+00:03:50.879 trabajadores y directivos viajan, están
+00:03:53.480 de vacaciones, se llevan sus
+00:03:54.720 dispositivos y el riesgo ha cambiado.
+00:03:57.439 Probablemente puede haber un riesgo de
+00:03:59.079 pérdida de dispositivo, acceso a la
+00:04:01.280 información desde otros países.
+00:04:03.519 Empezarán a utilizar VPN, empezarán a
+00:04:05.640 utilizar sistemas de seguridad que a lo
+00:04:07.360 mejor no tenías tan contemplados en ese
+00:04:09.400 mes de febrero. Por tanto, tenemos que
+00:04:11.360 establecer el contexto y durante el año,
+00:04:14.319 un par de veces como mínimo, os propongo
+00:04:16.639 que se revise para mantener el documento
+00:04:19.079 vivo y adecuado a la realidad de la
+00:04:21.040 organización. Bueno, y para que todo sea
+00:04:23.479 más sencillo, vamos a ver una aplicación
+00:04:25.360 práctica de cómo se realiza un análisis
+00:04:27.600 de riesgo. Podéis utilizar cualquier
+00:04:29.479 herramienta, hay muchísimas disponibles
+00:04:31.120 en el mercado. Algunas son de pago,
+00:04:32.720 otras son gratuitas, como esta que voy a
+00:04:34.680 utilizar, que es Valu y podéis usar
+00:04:37.880 incluso tablas de Excel que os gusta
+00:04:40.280 más, pero lo importante es que lo
+00:04:41.880 tengáis todo medianamente documentado y
+00:04:44.000 trazable. Por supuesto, las herramientas
+00:04:45.800 como las que vais a ver en pantalla son
+00:04:47.759 más sencillas y te permiten llevar mejor
+00:04:50.479 todo este análisis de riesgo visto en
+00:04:52.800 tiempo real. Bueno, fundamental. Una vez
+00:04:55.680 que tienes el contexto definido, tienes
+00:04:57.880 que establecer cuáles son los activos
+00:05:00.680 que vas a proteger. ¿Y qué es un activo?
+00:05:03.440 Pues un activo es todo aquello que tiene
+00:05:05.520 valor para la organización y contienen
+00:05:08.440 datos o información. Esos activos tienen
+00:05:11.919 que estar protegidos y sobre todo la
+00:05:14.600 organización tiene que haberlos
+00:05:16.120 valorado. Cuando tú tienes un valor para
+00:05:19.199 ese activo, ya sabes cuánto te costaría
+00:05:22.080 perderlo o que estuviera vulnerable y
+00:05:24.720 por tanto podrás priorizar esas tareas.
+00:05:27.600 Aquí, por ejemplo, hay un pequeño
+00:05:29.560 catálogo de activo a modo de ejemplo
+00:05:32.080 para que podáis entender de qué va esto
+00:05:33.960 del catálogo de activos. Por ejemplo, el
+00:05:36.440 servicio web, por ejemplo, la
+00:05:38.240 información y datos. por ejemplo, datos
+00:05:41.360 de carácter personal, información
+00:05:43.600 confidencial, pero activos son también
+00:05:47.000 los trabajadores de la empresa, como
+00:05:48.720 podéis ver aquí abajo, usuarios,
+00:05:50.560 usuarios internos, podemos tener un
+00:05:52.600 activo que sea administradores del
+00:05:54.880 sistema y también los activos son los
+00:05:57.360 espacios físicos. Como dije en el
+00:05:59.360 anterior vídeo sobre las el clausulado
+00:06:01.080 de la ISO 27001, tenemos que tener en
+00:06:03.280 cuenta que no solo hablamos de seguridad
+00:06:05.680 eh lógica o informática, hablamos
+00:06:07.680 también de seguridad física, puesto que
+00:06:10.520 al final si tu nave o tu oficina sale
+00:06:13.759 ardiendo y pierdes la información,
+00:06:15.599 también estarás perdiendo todo el
+00:06:17.720 elemento que querías proteger. Por
+00:06:19.800 tanto, tenemos que tener muy claro que
+00:06:21.400 hay que proteger las salas técnicas, las
+00:06:23.400 oficinas y los activos que contienen
+00:06:26.000 información y datos. Visto este catálogo
+00:06:29.000 de activos, os voy a explicar claramente
+00:06:31.400 cómo se puede hacer ese pequeño análisis
+00:06:33.319 de riesgo inicial. Pongamos que cogemos,
+00:06:36.560 imaginad, el usuario interno, el
+00:06:39.199 trabajador de la compañía es un usuario,
+00:06:42.120 un activo. Y aquí podría definir o
+00:06:44.520 describir en qué consiste el activo.
+00:06:46.960 Mientras más precisos seáis, más
+00:06:49.360 ocasiones vais a tener para poder
+00:06:51.560 enseñar el análisis de riesgo de forma
+00:06:53.479 rigurosa. La valoración, hay que
+00:06:56.039 preguntar muy bien, sobre todo a la
+00:06:58.680 organización y empresa cuando se va a
+00:07:00.160 hacer el análisis de riesgo, ¿qué valor
+00:07:02.240 le da al activo? Por ejemplo, ¿qué
+00:07:05.199 problema tendría si sus usuarios
+00:07:07.599 internos no estuvieran operativos? Es
+00:07:10.479 decir, si sus trabajadores no estuviesen
+00:07:13.319 hoy trabajando, ¿qué perjuicio tendrían?
+00:07:16.440 ¿Podrían seguir operando? ¿La empresa
+00:07:18.160 podría continuar? ¿Podría eh arrancar
+00:07:21.599 mañana por la mañana o tendría que echar
+00:07:24.199 el cierre? Entonces, la valoración de la
+00:07:26.720 compañía puede ser un sistema tan
+00:07:28.720 básico, como veis en pantalla, de bajo,
+00:07:30.800 medio
+00:07:32.039 u requiere de sus trabajadores para
+00:07:34.720 operar o o probablemente esos
+00:07:37.479 trabajadores que tienen mucha
+00:07:38.720 información y datos tengan una
+00:07:41.800 valoración alta. También podemos tener
+00:07:44.720 incluso dependencias, que luego
+00:07:46.319 explicaré. Cuando un activo depende de
+00:07:49.240 otro, significa que si el activo
+00:07:51.680 principal cae, repercute en el activo
+00:07:54.720 que era dependiente. Pues puede ser que
+00:07:56.840 esos usuarios internos dependan de la
+00:07:58.680 alta dirección o de otro activo. Este
+00:08:01.199 activo, una vez que lo tengo valorado,
+00:08:04.080 tiene que tener un responsable.
+00:08:05.520 Imaginad, para las personas trabajadoras
+00:08:07.560 de una empresa, el responsable de ese
+00:08:09.680 activo sería la parte de dirección de
+00:08:11.960 recursos humanos o la parte de más
+00:08:14.520 laboral. Por tanto, se debe de poner en
+00:08:17.000 este catálogo de activos. Cuando tengáis
+00:08:19.599 ese listado de activos, es interesante
+00:08:22.159 crear un grupo de trabajo donde esté eh
+00:08:24.919 varias áreas de la compañía, alguien de
+00:08:26.840 legal, por ejemplo, alguien de
+00:08:28.240 marketing, alguien de recursos humanos,
+00:08:30.319 alguien de la propia operación, de la
+00:08:31.840 parte más de producción de la empresa
+00:08:33.799 para que el valor que se le ha dado a
+00:08:35.760 los activos sea real y todos puedan
+00:08:38.000 opinar. Os pongo un ejemplo muy
+00:08:39.279 sencillo. Imaginad para alguien a lo
+00:08:41.320 mejor de legal la página web de la
+00:08:43.279 compañía pues tiene un valor a lo mejor
+00:08:45.360 bajo porque piensa, bueno, pues la
+00:08:47.080 página web puede que no sea tan
+00:08:48.480 importante, pero para alguien de
+00:08:49.880 marketing donde ve que la gran mayoría
+00:08:51.760 de registros y la gran mayoría de
+00:08:53.680 usuarios que que se apuntan en la web se
+00:08:56.080 convierten en venta, la página web es un
+00:08:58.120 activo esencial y muy importante. Si cae
+00:09:00.720 la página web, la empresa tendría
+00:09:02.560 grandes pérdidas económicas. Por tanto,
+00:09:04.640 para alguien quizás de marketing, la
+00:09:06.440 página web va a ser un activo con un
+00:09:08.240 valor alto. Por eso es bueno dejar ese
+00:09:10.920 catálogo ad activo con el valor que se
+00:09:12.480 le ha dado y al final presentarlo al
+00:09:14.519 comité de seguridad de la información
+00:09:16.200 para que quede firmado y que sea nuestra
+00:09:18.720 categorización de activos con su
+00:09:21.079 categoría alta, media o baja y tener muy
+00:09:25.079 claro cuáles son los activos esenciales
+00:09:27.120 de la compañía sin los cuales no podría
+00:09:29.480 operar con normalidad y tendría pérdidas
+00:09:32.120 económicas, reputacionales, todas
+00:09:33.839 aquellas que conviene tener en cuenta
+00:09:35.839 cuando hay un problema grave. Una vez
+00:09:38.200 que tenemos esos activos valorados, ya
+00:09:40.839 sea nivel medio, eh bajo o alto, como
+00:09:43.839 veis aquí lo ponen por colores en esta
+00:09:45.760 herramienta, ¿no? Los verdes están en
+00:09:47.440 bajo, medio es de color amarillo y rojo
+00:09:50.279 eh para para el valor alto. Nos vamos a
+00:09:53.640 el panel de amenazas, es decir, ¿qué
+00:09:55.800 amenazas pueden afectar a esos activos?
+00:09:58.279 Por ejemplo, vamos a poner un caso para
+00:10:00.600 los activos personas, los trabajadores
+00:10:02.519 de la empresa. Imaginad, una huelga
+00:10:05.120 puede ser una amenaza, una enfermedad
+00:10:07.519 puede ser amenaza, que ya tuvimos un
+00:10:10.000 caso, por ejemplo, en pandemia donde los
+00:10:11.360 trabajadores no podían acudir
+00:10:12.480 físicamente a a muchos de sus centros de
+00:10:14.880 trabajo. Todo eso puede ser valorado. Si
+00:10:17.279 yo me voy a el panel de amenazas de un
+00:10:19.800 activo, como veis aquí, por ejemplo, el
+00:10:22.240 de información confidencial, ya aparece
+00:10:24.800 en esta herramienta y en muchas
+00:10:26.399 herramientas de GRC una serie de
+00:10:28.360 amenazas preconfiguradas porque son las
+00:10:30.920 más clásicas que afectan a ese activo
+00:10:33.560 concreto, pero podéis ampliarlas, podéis
+00:10:36.440 personalizarlas y podéis adaptarlas a
+00:10:38.760 las realidades a compañía. Pongamos que
+00:10:41.160 este activo de información confidencial
+00:10:43.399 puede ser afectado por destrucción de la
+00:10:46.000 información. fuga de la información, por
+00:10:47.920 ejemplo, que alguien meta un USB y se la
+00:10:50.560 lleve, su plantación de identidad, que
+00:10:52.760 haya un caso de su plantación de
+00:10:53.959 identidad y acceda alguien a información
+00:10:55.680 confidencial que no debería, acceso no
+00:10:57.920 autorizado, modificación, que alguien
+00:11:00.200 cambie la información de forma
+00:11:01.519 deliberada o de forma fortuita. Aquí es
+00:11:04.680 donde viene la clave de un análisis de
+00:11:06.720 riesgo, ¿vale? Tengo claro el valor del
+00:11:09.240 activo y tengo claro qué amenazas le
+00:11:11.639 pueden eh afectar. Pero, ¿cuál es la
+00:11:16.519 probabilidad de que esa amenaza ocurra?
+00:11:20.399 Y esto no lo podéis dejar a simplemente
+00:11:24.000 tirar una moneda al aire y yo creo que
+00:11:25.760 alta, yo creo que baja, yo creo que esto
+00:11:28.279 no va a pasar nunca, es improbable. Eso
+00:11:30.480 no funciona así. Hay que analizarlo muy
+00:11:32.320 bien. ¿Ha ocurrido alguna vez en la
+00:11:34.560 empresa? ¿Ha ocurrido alguna vez en el
+00:11:36.760 sector? Tenemos estadísticas de que esto
+00:11:39.760 esté ocurriendo actualmente en base a
+00:11:42.120 una serie de parámetros para que sea un
+00:11:44.200 método lo más científico posible, hay
+00:11:46.279 que establecer si la probabilidad es
+00:11:47.839 alta, es media o es baja. Por supuesto,
+00:11:50.839 si no ha ocurrido nunca, no tenéis
+00:11:53.120 referencias de que haya ocurrido en el
+00:11:54.920 sector y no tenéis casos comprobados en
+00:11:57.959 la industria en los últimos tiempos, esa
+00:12:00.560 esa probabilidad será baja. Pero si ya
+00:12:04.320 ha ocurrido alguna vez en nuestra
+00:12:06.680 empresa, por ejemplo, evidentemente la
+00:12:08.639 probabilidad es alta. Es que ya ha
+00:12:10.200 ocurrido anteriormente o sabemos que hay
+00:12:13.279 empresas con la misma actividad y el
+00:12:14.800 mismo sector donde ya les está
+00:12:16.279 ocurriendo esa probabilidad. Es alta,
+00:12:18.959 por supuesto. Así que a la hora de
+00:12:20.880 elegir probabilidad baja, media o alta,
+00:12:24.079 no tiréis esa moneda al aire, no lo
+00:12:26.240 pongáis. Eh, yo nunca recomiendo poner
+00:12:28.680 improbable o que no va a ocurrir o que
+00:12:30.440 no nos aplica, porque cuando luego
+00:12:32.639 ocurre tenemos un problema y es que no
+00:12:34.720 lo teníamos ni dentro del análisis de
+00:12:36.920 riesgo, no lo teníamos ni contemplado y
+00:12:39.040 va a ser mucho más difícil defender que
+00:12:41.120 nuestro análisis de riesgo estaba muy
+00:12:43.279 bien estudiado y documentado. Así que es
+00:12:45.959 bueno sacar estadísticas y sacar
+00:12:47.920 reportes o evidencias de qué sucesos o
+00:12:51.279 posibles riesgos la compañía tanto en el
+00:12:54.639 entorno, en su actividad como las más
+00:12:57.440 propias del sector. Para eso es
+00:12:59.120 interesante, por ejemplo, aquí en España
+00:13:01.199 apoyarse en datos. ¿Qué tipos de datos?
+00:13:04.800 Pues por ejemplo, hay muchos reportes
+00:13:06.560 que aparecen en Incibe, hay muchos
+00:13:09.240 reportes que aparecen en el Centro
+00:13:10.680 Criptológico Nacional y hay muchos
+00:13:12.839 reportes que aparecen en las propias
+00:13:15.000 resoluciones de la Agencia Española de
+00:13:16.519 Protección de Datos. El propio INCIBE eh
+00:13:19.320 tiene opción de que te apuntes y te
+00:13:21.360 llegan correos electrónicos con
+00:13:23.199 vulnerabilidades, con amenazas, con
+00:13:25.680 elementos para que mantengas al día todo
+00:13:28.240 tu sistema de gestión de seguridad de la
+00:13:29.959 información. Así que apóyate en ese tipo
+00:13:32.199 de reportes para que sea más preciso
+00:13:34.880 esta evaluación de la probabilidad. La
+00:13:37.920 segunda parte es eh la degradación que
+00:13:40.880 tendría ese activo, es decir, si ocurre,
+00:13:44.440 si la probabilidad se materializa y
+00:13:47.199 pasa, si por ejemplo hablamos aquí de
+00:13:50.079 fuga de información, si hemos tenido
+00:13:53.240 casos donde nuestros trabajadores se han
+00:13:55.600 llevado cartera de clientes, han
+00:13:57.440 accedido información confidencial cuando
+00:13:58.920 se han ido y esto ya sabemos que ha
+00:14:00.759 ocurrido, es decir, la probabilidad es
+00:14:02.600 alta, ¿qué degradación tendría ese
+00:14:04.880 activo? Pues evidentemente si una
+00:14:07.320 información que debe ser confidencial
+00:14:09.639 sabemos que ha dejado de serla, la
+00:14:12.360 degradación o el perjuicio que tiene ese
+00:14:14.680 activo puede ser alta también, con lo
+00:14:17.720 cual nos da un impacto de nueve, nos da
+00:14:20.680 aquí un impacto bastante alto y nos va a
+00:14:23.600 suponer que tengamos que poner el foco
+00:14:25.880 precisamente en la información
+00:14:27.440 confidencial en ese riesgo concreto, en
+00:14:30.160 fugas de información. Ya tenemos
+00:14:33.399 probabilidad alta, impacto alto, ya me
+00:14:36.560 va a salir aquí una amenaza que voy a
+00:14:39.079 tener que tener muy presente para mi
+00:14:41.320 plan de
+00:14:42.720 tratamiento. Ten muy en cuenta que por
+00:14:44.759 eso es interesante apoyarse en
+00:14:46.759 herramientas. Lo mejor son herramientas
+00:14:49.199 que que sean bastante contrastadas que
+00:14:52.360 van a tener alguna información que te va
+00:14:54.079 a ser de utilidad si no tienes tanta
+00:14:55.600 experiencia. y es que te explica la
+00:14:57.440 amenaza, la valoración, qué significa la
+00:15:00.160 degradación, la probabilidad y también
+00:15:02.639 en muchos casos te permite, como en este
+00:15:05.279 caso, pues eh tener un reporte con las
+00:15:08.000 CVE para que añadamos las posibles
+00:15:10.600 vulnerabilidades que tienen estos
+00:15:12.199 activos. Te permite cargar dependencias
+00:15:15.240 o el impacto de esas dependencias sobre
+00:15:17.880 el activo te permiten alimentarlo para
+00:15:20.519 que sea lo más preciso que podamos. Por
+00:15:22.720 ejemplo, el método, la herramienta pilar
+00:15:25.240 del Centro Cristológico Nacional, pues
+00:15:27.000 te permite ir alimentando cada vez más y
+00:15:29.759 crear un una evaluación s exhaustiva.
+00:15:32.600 Hay muchas herramientas que te van a dar
+00:15:34.920 estas opciones tan interesantes. Una vez
+00:15:37.839 que tengo valorado eh esas amenazas, ya
+00:15:40.839 sé la probabilidad de que ocurran y la
+00:15:42.639 degradación, el impacto que tendría si
+00:15:44.600 llega a ocurrir, tengo ya un panel de
+00:15:47.720 amenazas, como veis aquí, muy
+00:15:49.680 interesante. activos que tienen 14
+00:15:52.360 avenazas documentadas, como en este
+00:15:54.079 caso, lo veis por aquí, ¿vale? Eh,
+00:15:56.680 activos que tienen nueve, yo puedo
+00:15:58.360 quitarlas, ponerlas, aumentarlas. Esta
+00:16:00.920 es la clave o la ciencia de tu análisis
+00:16:03.680 de riesgo, discutir con este comité que
+00:16:05.839 se ha creado de qué probabilidad, qué
+00:16:08.199 impacto causaría y nos daría lo que veis
+00:16:11.240 en pantalla, que es el riesgo, en este
+00:16:14.360 caso inherente, el riesgo que tenemos
+00:16:18.040 sin pensar en nuestras medidas de
+00:16:20.279 seguridad. Todo lo que hemos hecho hasta
+00:16:22.160 ahora es la exposición que tienen tus
+00:16:24.360 activos a estas amenazas sin pensar en
+00:16:28.279 lo que ya tenemos. Esto es un error que
+00:16:30.279 suele pasar mucho en los análisis de
+00:16:31.639 riesgo y es que tener en la mente cuando
+00:16:33.959 uno lo hace todo lo que ya tienes en tu
+00:16:36.079 compañía, que si tengo doble factor de
+00:16:38.279 autenticación, que si tengo medios de
+00:16:40.399 extinción contra incendio, formación de
+00:16:42.319 la plantilla, tengo eh por una
+00:16:44.639 herramienta de monitorización, lo tengo
+00:16:46.639 todo muy controlado, entonces pienso que
+00:16:48.519 a mí prácticamente las amenazas no me
+00:16:50.519 pueden afectar. ¿Vale? Esa es la segunda
+00:16:52.560 parte, pero aquí lo que estoy calculando
+00:16:55.000 es el riesgo que tengo inherente, el
+00:16:57.959 riesgo de que ocurra algo y yo todavía
+00:17:01.279 no he implementado ninguna medida de
+00:17:03.600 seguridad. ¿Por qué? Porque en base a
+00:17:06.160 esto voy a ver dónde tengo que poner el
+00:17:08.439 foco o la mirada a la hora de
+00:17:11.799 implementar mayores niveles de
+00:17:13.959 seguridad. Así que este es mi riesgo
+00:17:16.640 inherente. Una vez que tengo este riesgo
+00:17:19.319 inherente, ya sabiendo el valor que
+00:17:21.640 tienen mis activos, ya puedo establecer
+00:17:24.599 una serie de controles para mitigarlos.
+00:17:27.839 Y aquí entra y por eso os he puesto esta
+00:17:30.600 herramienta. Esta herramienta ya tiene
+00:17:32.559 cargados lo que serían todas las
+00:17:34.919 cláusulas y controles que se establecen
+00:17:37.440 en la ISO 27001 y como ya sabemos los
+00:17:40.600 las controles de la ISO 27002.
+00:17:44.200 Eh, aquí vemos, por ejemplo, el control
+00:17:45.720 de acceso, gestión de identidades,
+00:17:47.880 clasificación de la información,
+00:17:49.520 devolución de los activos, uso aceptable
+00:17:52.240 de los activos. ¿Qué ocurre con esto?
+00:17:54.520 Una vez que tengo los
+00:17:56.000 controles, yo cojo eh a mi a mi activo y
+00:18:01.320 le tengo que aplicar en mi sistema de
+00:18:04.120 gestión qué tengo implementado y en qué
+00:18:07.159 nivel. Voy a por ejemplo, uno
+00:18:10.640 interesante. Por ejemplo, el control de
+00:18:13.360 acceso. Si yo cojo el control de
+00:18:16.000 acceso, aquí puedo establecer si aplica,
+00:18:19.200 es decir, si lo tengo aplicado, si lo
+00:18:21.240 tengo implementado en mi
+00:18:23.720 organización, en qué nivel aplica, bajo,
+00:18:26.480 medio o alto, cómo es mi nivel de
+00:18:28.880 aplicación de este control.
+00:18:31.559 La madurez, que esto es fundamental, la
+00:18:33.799 madurez tiene varios niveles. Siendo el
+00:18:37.200 L5, un nivel 100%, lo tengo optimizado,
+00:18:41.240 tengo métricas, tengo indicadores, lo
+00:18:43.880 tengo más que revisado y funciona
+00:18:46.760 estupendamente en mi organización. un
+00:18:48.919 nivel de madurez L3, pues correspondería
+00:18:51.400 a un nivel de madurez medio y que sí lo
+00:18:54.600 tengo implementado, pero no saco
+00:18:56.200 métricas, no saco reportes, no sé
+00:18:58.720 cuántos de los usuarios están accediendo
+00:19:01.120 de forma correcta, así que aquí tenemos
+00:19:04.120 que implementar o colocar ese nivel de
+00:19:06.679 madurez de nuestra organización y
+00:19:09.760 después las amenazas que se mitigan con
+00:19:12.679 este control. Ya sabéis, las amenazas
+00:19:14.720 suelen tener un código numérico para que
+00:19:17.120 sea más fácil casar la amenaza con el
+00:19:20.440 control que la va a mitigar. Y aquí la
+00:19:23.760 puedo definir. Una vez que la tengo
+00:19:26.080 implementada, pues esta medida, el
+00:19:30.600 análisis de riesgo va a entender la
+00:19:32.480 herramienta de que la tienes actualmente
+00:19:34.799 en tu organización y en ese nivel y va a
+00:19:37.600 mitigar la amenaza que habías puesto
+00:19:41.000 anteriormente. Si yo pongo, por ejemplo,
+00:19:43.159 que no aplica, que no tengo bien
+00:19:45.880 implementada esta medida y que yo no la
+00:19:48.799 aplico en mi organización, como veis, en
+00:19:50.840 una herramienta de este tipo aparecería
+00:19:54.760 en gris, no me aplica. Así que lo
+00:19:57.320 interesante en esa fase de análisis de
+00:19:59.280 riesgo es todo el catálogo de
+00:20:01.280 medidas, ir teniendo en cuenta si te
+00:20:04.080 aplica o si no te aplica. Por ejemplo,
+00:20:06.480 imaginemos una organización, que esto es
+00:20:08.640 difícil, que no trata ningún dato de
+00:20:10.400 carácter personal, pues aquí pondría que
+00:20:13.000 no le aplica esta medida, esta
+00:20:15.880 salvaguarda, con lo cual, veis,
+00:20:18.039 aparecería en gris. Y esto hace que la
+00:20:22.080 herramienta por detrás calcule las
+00:20:24.360 amenazas y qué salvaguardas le estás
+00:20:27.880 aplicando, arrojando un valor final, que
+00:20:31.360 esto es lo interesante. Una vez que tú
+00:20:33.480 le das a aplicar las medidas y esos
+00:20:36.559 controles, eh, te arroja un valor final
+00:20:40.280 que es tu panel de riesgo definitivo.
+00:20:43.640 Por eso es importante que tengamos en
+00:20:45.919 cuenta que a mayor nivel de salvaguardas
+00:20:48.760 y mayor grado de madurez, menos riesgo
+00:20:52.679 vamos a tener. Aquí aparece, por
+00:20:54.120 ejemplo, un riesgo muy bajo. Ya ha hecho
+00:20:56.320 los cálculos y ha considerado que en
+00:20:59.240 esos activos que había bastantes
+00:21:01.679 amenazas, como hemos implementado todas
+00:21:04.440 las medidas de seguridad y a todas les
+00:21:07.360 hemos puesto que aplica, nos ha salido
+00:21:09.360 un riesgo o despreciable o muy bajo.
+00:21:12.120 Aquí vemos si abro cualquiera de ellos,
+00:21:15.760 cómo ha operado esta herramienta, que es
+00:21:17.960 como operan casi todas las herramientas
+00:21:19.320 de análisis de riesgo. Vemos el riesgo
+00:21:21.799 potencial o inherente y el riesgo final.
+00:21:24.640 Y tú piensas, bueno, ¿y cómo ha llegado
+00:21:26.480 a esta conclusión que una fuga de de
+00:21:29.120 información, que era un riesgo crítico,
+00:21:31.400 es tan despreciable? Pues aquí te lo
+00:21:33.960 está diciendo, ¿no? Porque las medidas
+00:21:36.480 que yo he implementado o que él he dicho
+00:21:38.640 que tiene están aquí y estas son las que
+00:21:41.760 han paliado el problema. Recordad que
+00:21:44.320 esta este vídeo es cortito y es
+00:21:46.600 simplemente para que entendáis cómo
+00:21:47.880 funciona un análisis de riesgo, pero
+00:21:49.640 evidentemente el análisis de riesgo
+00:21:51.640 tiene que ir punto por punto comprobando
+00:21:54.320 que tú tienes implementada la medida y
+00:21:56.159 en qué grado de madurez. Si yo, por
+00:21:58.080 ejemplo, digo en una medida que tengo un
+00:22:00.039 control de los dispositivos y que tengo
+00:22:03.000 capados los USBs para que ningún
+00:22:05.200 trabajador pueda eh introducirlo y
+00:22:07.440 llevarse la información, no solo basta
+00:22:09.480 con decirlo, sino que tengo que hacer
+00:22:11.000 unas comprobaciones de que funciona, de
+00:22:12.640 que están todos los equipos y que además
+00:22:14.400 todos los trabajadores son conscientes
+00:22:16.039 de esos y así tendré claro que todas
+00:22:18.919 estas medidas funcionan. Una vez que yo
+00:22:21.240 tengo bien hecho esa fase de riesgo
+00:22:24.240 potencial y esa fase de mi riesgo final,
+00:22:27.679 que es este, pues si hubiera alguno en
+00:22:30.480 medio o en alto, ya procedo a mitigarlo.
+00:22:34.760 También es interesante que la empresa
+00:22:36.520 deje muy claro cuál es su apetito de
+00:22:38.279 riesgo. Pongamos que en esta
+00:22:39.679 organización dicen que van a abordar
+00:22:41.919 todos los riesgos, incluidos los muy
+00:22:44.240 bajos, pues cogerían todos estos riesgos
+00:22:46.559 que aparecen en muy bajo y dirían,
+00:22:48.320 "Bueno, pues vamos a realizar un plan de
+00:22:51.159 tratamiento con medidas para que esto
+00:22:53.400 que aparece aquí como muy bajo pase a
+00:22:56.159 despreciable, porque he mitigado el
+00:22:58.400 posible riesgo que quedaba." Vamos a ver
+00:23:01.159 un ejemplo muy práctico. Si yo en el
+00:23:03.480 panel de control,
+00:23:05.559 imaginad control que que veis que veíais
+00:23:08.480 antes, yo empiezo a quitar medidas de
+00:23:12.480 seguridad que la empresa no está
+00:23:14.480 trabajando. Por ejemplo, no tiene
+00:23:16.960 política de seguridad de la información,
+00:23:19.279 vamos a poner que no la tiene o no la
+00:23:21.799 tienen aplicada, no tienen funciones y
+00:23:25.080 responsabilidades. Voy a quitar varias
+00:23:27.640 de estas medidas para que veáis el
+00:23:31.760 resultado. Bueno, pues como os iba
+00:23:34.039 diciendo, hemos simulado que muchas de
+00:23:36.520 las medidas que son necesarias en esa
+00:23:38.919 ISO 27001 y esos controles de seguridad
+00:23:42.159 en esta simulación o bien no están
+00:23:44.480 aplicadas o se han aplicado a una
+00:23:47.720 madurez muy baja. Por ejemplo, en este
+00:23:51.120 caso eh he aplicado protección contra
+00:23:53.720 amenazas físicas y ambientales,
+00:23:56.240 incendio, tema de, por ejemplo,
+00:23:58.480 terremoto, cualquier elemento físico,
+00:24:00.520 ambiental, humedad que pueda afectar a
+00:24:03.159 la información. La he implementado un
+00:24:06.080 nivel muy bajo y una madurez L0 que
+00:24:08.840 prácticamente pues no hay nada, no
+00:24:10.559 tienen nada realizado. ¿Qué ocurre
+00:24:13.360 cuando las medidas no están todos los
+00:24:15.640 controles aplicados o su madurez muy
+00:24:18.440 baja? Pues como podéis ver aquí ese
+00:24:21.120 panel de riesgos ha cambiado bastante.
+00:24:24.200 Ahora ya tenemos algunos riesgos que
+00:24:25.880 siguen siendo despreciables porque
+00:24:28.000 tenemos todavía alguna medida de
+00:24:29.799 seguridad que lo van a mitigar, pero eh
+00:24:32.919 por ejemplo hecho mucho hincapié en
+00:24:34.760 quitar las medidas de protección de
+00:24:36.559 seguridad física contra incendios,
+00:24:38.520 humedad, temperatura, electricidad,
+00:24:40.480 incluso las la de continuidad de negocio
+00:24:43.159 o las copias de seguridad. ¿Qué ha
+00:24:45.840 pasado en los despachos y en las salas
+00:24:47.919 técnicas? Que hay un riesgo muy alto,
+00:24:50.200 vamos a poner ese despacho u oficina.
+00:24:52.399 ¿Por qué hay un riesgo alto? Porque
+00:24:54.720 teníamos daño por fuego, daño por agua,
+00:24:57.480 desastres naturales, desastres
+00:24:59.279 industriales y nuestro riesgo final, por
+00:25:02.120 ejemplo, por fuego es alto. ¿Por qué?
+00:25:05.880 Porque las medidas que mitigaban este
+00:25:10.039 riesgo están en una madurez bajísima. Es
+00:25:13.720 decir, sí, a lo mejor la empresa tiene
+00:25:16.120 un detector contra incendio o tiene un
+00:25:18.200 extintor, pero no ha podido tener un
+00:25:20.000 contrato de mantenimiento, una revisión.
+00:25:21.880 No han hecho pruebas, no han hecho
+00:25:22.960 simulacros, no tienen una protección
+00:25:24.880 real contra el fuego. Por tanto, el
+00:25:26.720 riesgo potencial de incendio es alto
+00:25:29.159 porque hay elementos que pueden arder
+00:25:31.000 como el papel y su riesgo final es alto
+00:25:33.880 porque no tienen medidas que puedan
+00:25:35.760 controlarlo o puedan mitigarlo. Ni hay
+00:25:38.919 extintores ni contrato de mantenimiento,
+00:25:41.440 ni tienen, por ejemplo, eh bocas de
+00:25:43.399 incendio, ni tienen detectores de humo
+00:25:45.159 que estén revisados, ni luces de
+00:25:46.720 emergencia, ni han hecho simulacros. Así
+00:25:48.880 que ese riesgo daño por fuego en ese
+00:25:51.640 activo que son tus oficinas donde
+00:25:53.799 guardas tu documentación en papel, por
+00:25:56.039 ejemplo, o tus ordenadores, va a ser uno
+00:25:58.640 de los riesgos que va a saltar
+00:26:00.480 claramente para el plan de tratamiento
+00:26:03.240 de riesgos. Así que esta organización
+00:26:05.159 una vez que hemos llegado al final de
+00:26:07.159 nuestro análisis pues diría, bueno, voy
+00:26:09.640 a empezar a priorizar todo lo que me
+00:26:11.840 sale con un riesgo alto y voy a hacer un
+00:26:14.559 plan de tratamiento con acciones reales,
+00:26:17.120 presupuesto y tiempos estandarizados
+00:26:20.240 para controlar estos riesgos y que bajen
+00:26:24.000 lo antes posible. Cuando realicemos esas
+00:26:26.960 medidas de mitigación, ¿qué vamos a ir
+00:26:29.799 haciendo? pues irán
+00:26:31.720 subiendo estos controles. Pongamos el
+00:26:34.679 caso de que la empresa hace su contrato
+00:26:37.399 de mantenimiento con una empresa de
+00:26:39.360 extinción de incendios. Tiene su
+00:26:40.880 simulacro, han comprobado que están
+00:26:43.120 todos los detectores de humo, han
+00:26:45.320 formado la plantilla, han hecho todo y
+00:26:47.880 han conseguido que la protección contra
+00:26:50.320 amenazas físicas y ambientales suba a un
+00:26:53.640 L4, por ejemplo. ¿Vale? Y también
+00:26:56.600 podemos hacer que una vez queamos
+00:26:59.520 sigamos con ese plan de tratamiento de
+00:27:01.399 riesgo, el monitoreo de la seguridad
+00:27:03.960 física también sube porque hay alguien
+00:27:07.000 encargado en la empresa, por ejemplo, el
+00:27:08.360 técnico de prevención de riesgos
+00:27:09.600 laborales que comprueba que todo está
+00:27:11.720 funcionando completamente y además hemos
+00:27:14.320 comprobado o tenemos eh elementos para
+00:27:18.919 ayudarnos a que esa seguridad física
+00:27:21.320 mejore. Si me voy a mi panel de riesgo,
+00:27:23.320 pues ya veis que en cuanto he
+00:27:24.919 implementado esas medidas ha bajado a
+00:27:26.960 medio y solo he implementado dos. Si voy
+00:27:29.559 implementando todas las que les
+00:27:30.960 corresponde, conseguiré bajar ese riesgo
+00:27:34.320 a muy bajo o despreciable. Y esa
+00:27:37.520 análisis de riesgo es será, como
+00:27:39.559 decíamos al principio, un documento vivo
+00:27:41.640 y actualizado en tiempo real. Todas esas
+00:27:45.159 medidas quedan documentadas en el plan
+00:27:47.240 de tratamiento y serán presentadas al
+00:27:50.159 comité de seguridad de la información.
+00:27:52.039 Bueno, pues esto es todo. Os quería
+00:27:53.600 enseñar de una forma muy práctica cómo
+00:27:55.440 se hace un pequeño análisis de riesgo.
+00:27:56.960 Ya digo, esto es un arte. Al final, el
+00:27:58.679 análisis de riesgo puede conllevar que
+00:28:00.279 estéis realizándolo durante varios días
+00:28:02.440 o incluso semanas hasta conseguir un
+00:28:04.519 análisis de riesgo exhaustivo, real y
+00:28:07.120 que pueda ser operativo en la
+00:28:08.960 organización. Esto, disculpadlo, solo ha
+00:28:11.240 sido una pequeña simulación con una
+00:28:12.760 herramienta para que veáis en qué
+00:28:14.600 consiste y los que no habéis realizado
+00:28:16.240 ninguno tengáis los principios básicos
+00:28:18.679 disponibles. Muchas gracias y nos vemos
+00:28:20.480 en el siguiente vídeo.

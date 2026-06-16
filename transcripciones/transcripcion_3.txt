@@ -1,0 +1,700 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/qsM4eMRQ4vA
+
+00:00:00.480 Muy buenas a todos. Si estás interesado
+00:00:02.240 en la norma ISO 27001 de seguridad de la
+00:00:05.040 información, estás en el sitio indicado.
+00:00:07.759 Te sugiero que que si has empezado por
+00:00:09.920 este vídeo veas primero los controles
+00:00:12.840 del clausulado de la ISO que tengo por
+00:00:14.799 aquí en este vídeo y también el análisis
+00:00:16.880 de riesgo, que es uno de los puntos más
+00:00:19.119 importantes y por donde deberíamos
+00:00:21.279 arrancar. Pero hoy vamos a ver los
+00:00:23.400 controles físicos, esos grandes
+00:00:25.760 desconocidos, porque sí, la seguridad de
+00:00:28.160 la información comprende muchos
+00:00:30.359 aspectos, organización, políticas,
+00:00:33.640 personas y aspectos físicos de
+00:00:36.079 seguridad. Podemos tener una
+00:00:38.040 ciberseguridad excelente y que se siente
+00:00:40.879 alguien en un ordenador que no es el
+00:00:42.399 adecuado y vea lo que no tiene que ver.
+00:00:44.640 Por tanto, estás protegiendo tus
+00:00:46.840 instalaciones. Y antes de arrancar,
+00:00:48.800 recuerda que la ISO 27001 tiene 93
+00:00:51.680 controles que tendrás que indicar en tu
+00:00:53.760 declaración de aplicabilidad para
+00:00:55.920 expresar las medidas que vas a
+00:00:58.320 implementar para proteger la
+00:01:00.120 confidencialidad, integridad y
+00:01:02.480 disponibilidad de los sistemas de
+00:01:04.760 información. ¿Qué ocurre con esto? De
+00:01:07.000 los 93 controles que vas a encontrar en
+00:01:09.119 el anexo A, la 27002, 14 son físicos.
+00:01:13.439 ¿De qué van? estos controles físicos,
+00:01:15.560 pues estos controles físicos van de
+00:01:17.640 proteger tus instalaciones, el entorno,
+00:01:20.479 energía eléctrica, evitar incendios,
+00:01:23.880 tener sistemas de monitorización para
+00:01:25.759 ver quién entra en tus instalaciones
+00:01:27.640 como tornos, controles de acceso,
+00:01:29.320 biometría, es decir, controlar no solo
+00:01:31.960 la ciberseguridad, sino también quién
+00:01:34.560 accede a qué en formato físico, porque
+00:01:36.720 no olvides que la seguridad de la
+00:01:38.520 información incluye también la
+00:01:40.000 información en papel. Y no solo en
+00:01:42.439 papel, es que al final si en tu sede
+00:01:44.600 entra cualquiera, se sienta en un
+00:01:46.040 equipo, puede visualizar las pantallas,
+00:01:48.079 puede acceder a oficinas protegidas o
+00:01:50.680 despachos con información confidencial,
+00:01:53.320 pues vas a tener un problema. Imagina
+00:01:55.439 que alguien va a una impresora y la abre
+00:01:58.240 y saca documentos bastante
+00:02:00.079 confidenciales, como pueden ser nóminas
+00:02:02.119 y se las lleva. Así que no olvides que
+00:02:04.920 la seguridad de la información no es
+00:02:06.719 solo ciberseguridad. Y si este contenido
+00:02:09.440 te interesa, síguelo, apóyalo, porque el
+00:02:12.319 siguiente vídeo va a ser de controles
+00:02:14.760 organizativos y sobre las personas. Otro
+00:02:17.800 gran desconocido que al final en muchos
+00:02:20.599 casos no se implementa bien y
+00:02:22.800 descuidamos una parte fundamental de
+00:02:25.360 nuestra ISO 27001 de seguridad de la
+00:02:28.280 información. Bueno, ¿y a quién hacemos
+00:02:30.760 partícipe de estos controles y quién es
+00:02:33.000 el responsable? Generalmente, si la
+00:02:34.920 empresa tiene un responsable de
+00:02:36.319 seguridad física o del entorno, ya sea
+00:02:38.360 industrial, técnico de prevención de
+00:02:39.800 riesgos laborales, empresa de
+00:02:41.200 vigilancia, lo podemos incluir en el
+00:02:43.680 comité de seguridad de la información.
+00:02:45.519 Así aportará su punto de vista, se
+00:02:48.000 responsabilizará de implementar estos
+00:02:50.599 controles y además monitorizará la
+00:02:53.519 vigilancia de la seguridad física, que
+00:02:55.360 es fundamental en la ISO 27001.
+00:02:59.239 Empezamos con el primero de los
+00:03:01.080 controles. El primero de los controles
+00:03:03.799 es perímetro de seguridad física. ¿De
+00:03:06.440 qué va este control? Bueno, pues para
+00:03:08.560 poder evidenciar este control
+00:03:10.680 necesitamos proteger la información y
+00:03:13.000 los activos asociados del acceso, uso o
+00:03:16.560 eliminación no autorizados. ¿Y qué
+00:03:18.519 implica esto? implementar barreras,
+00:03:21.720 muros, puertas, vigilancia electrónica
+00:03:24.480 para poder controlar quién ingresa en
+00:03:26.360 tus instalaciones y monitorizar su
+00:03:29.040 actividad.
+00:03:30.720 Además, se pueden utilizar equipos de
+00:03:32.840 vigilancia como CCTV o cámaras de
+00:03:35.400 circuito cerrado de televisión, pero
+00:03:37.200 además tener con ellos un control muy
+00:03:39.200 efectivo. Por ejemplo, el responsable de
+00:03:41.159 seguridad de la información puede
+00:03:42.400 acceder a esa monitorización, ¿quién la
+00:03:45.239 está controlando? Hay reportes, por
+00:03:47.400 ejemplo, o alarma conectada a policía.
+00:03:50.120 Tenemos un control de acceso efectivo
+00:03:52.360 que diga que diga quién entra en cada
+00:03:54.959 momento y a qué área de la empresa
+00:03:57.400 accede. Con frecuencia puedes combinar
+00:04:00.079 este tipo de controles físicos con
+00:04:02.000 algunos tecnológicos para implementar
+00:04:05.360 una seguridad perimetral correcta.
+00:04:08.040 Evidentemente no hay mejor perímetro que
+00:04:10.519 puertas, vallas y muros. Te pongo un
+00:04:13.920 ejemplo muy sencillo. Imagina que en tu
+00:04:15.480 edificio no hay ningún tipo de control
+00:04:16.918 de acceso y haces un pedido a una
+00:04:19.279 empresa de transporte. El repartidor
+00:04:21.000 sube, no se acredita, entra en tus
+00:04:23.320 instalaciones, nadie le atiende la
+00:04:24.840 recepción y al final está esperando ahí
+00:04:27.400 a que alguien le atienda, pudiendo ver
+00:04:29.360 ordenadores, pantallas, sacar su
+00:04:30.960 teléfono móvil y hacer una foto. Es
+00:04:32.560 decir, la exposición de la información
+00:04:34.919 de tu empresa es muy alta y es
+00:04:37.360 totalmente vulnerable. Seguramente
+00:04:39.680 tendría que haberse acreditado en la
+00:04:41.080 entrada, tener un control de acceso
+00:04:42.840 efectivo, saber qué empresa de reparto
+00:04:45.039 es y apuntar tanto entrada como salida
+00:04:47.919 de ese repartidor para controlar en el
+00:04:49.720 edificio que realmente sabemos quién
+00:04:52.759 está accediendo nuestras instalaciones.
+00:04:55.520 Recuerda que muchos de los ataques no
+00:04:57.919 van a venir por elementos de
+00:04:59.800 ciberseguridad, van a venir por cosas
+00:05:01.560 tan simples como esta. No solamente un
+00:05:04.160 repartidor, una visita que accede a tus
+00:05:06.280 instalaciones, que incluso puede ser de
+00:05:08.199 la competencia, se le puede escapar y
+00:05:11.000 hacerse una foto en tus instalaciones,
+00:05:13.039 colgarla a una red social y revelar cómo
+00:05:15.680 es la seguridad de tu recinto o qué
+00:05:17.560 información o clientes tienes en esas
+00:05:19.960 dependencias. Recuerda muy bien el
+00:05:22.160 perímetro de la seguridad física es
+00:05:24.199 quién puede acceder a tus instalaciones
+00:05:26.319 y cómo vamos a defenderlas.
+00:05:29.520 El siguiente control y enlaza con este
+00:05:31.800 es mucho más específico, es entrada
+00:05:34.840 física al recinto. ¿Cómo se entran tus
+00:05:37.199 instalaciones? ¿Hay torno de acceso?
+00:05:39.400 ¿Hay una puerta? Cerradura, llave
+00:05:41.280 inteligente, biometría. ¿Cómo estáis
+00:05:43.960 accediendo? Puedes tener implementado
+00:05:46.000 cualquier sistema que asegure la
+00:05:47.800 trazabilidad, es decir, que sepas quién
+00:05:49.400 entra y quién sale y que asegure muy
+00:05:51.560 bien la integridad de la información,
+00:05:53.360 pero sobre todo que identifique a la
+00:05:55.160 persona que está accediendo. Si vas a
+00:05:57.759 utilizar, por ejemplo, biometría, que se
+00:05:59.880 está poniendo muy de moda, no es que sea
+00:06:01.880 mala, pero ten en cuenta que con las
+00:06:03.360 normas no podemos cumplir una e
+00:06:05.880 incumplir otra, porque al final, si
+00:06:07.840 utilizas biometría, tendrás que recordar
+00:06:10.280 si incide en derechos de tus
+00:06:12.240 trabajadores o las visitas. En materia
+00:06:14.560 de protección de datos, la biometría,
+00:06:16.560 que está clasificada como dato de
+00:06:18.479 categoría especial tiene que ser muy
+00:06:20.319 bien analizada.
+00:06:22.039 implementa biometría, pero que analice
+00:06:24.840 tu delegado de protección de datos o la
+00:06:27.039 empresa que te lleve la protección de
+00:06:28.720 datos, que esa biometría tiene una buena
+00:06:31.599 evaluación de impacto la protección de
+00:06:33.520 datos con un test de necesidad,
+00:06:36.039 idoneidad y proporcionalidad. Por
+00:06:38.639 supuesto, no es lo mismo una biometría
+00:06:40.919 para registro horario, que es muy
+00:06:42.840 complicada, que implementar biometría
+00:06:45.039 para acceder a una sala de servidores de
+00:06:47.800 una infraestructura crítica donde
+00:06:49.440 seguramente esté más que justificada y
+00:06:52.120 no tengas ningún tipo de problema. Pero
+00:06:54.240 recuerda que tienes que informar a tus
+00:06:56.479 trabajadores sobre ese uso de la
+00:06:57.800 biometría, asegurar que el proveedor que
+00:06:59.960 te ponga el sistema está tratando los
+00:07:02.560 datos de forma correcta y sobre todo la
+00:07:05.039 evaluación de impacto que hemos dicho
+00:07:06.800 que por ejemplo con el Reglamento
+00:07:08.039 General de Protección de Datos para la
+00:07:09.840 biometría va a ser obligatoria. Otras
+00:07:13.360 cosas que puedes poner, pues un control
+00:07:14.960 de acceso contorno, tarjeta magnética,
+00:07:17.160 implementar una cámara de
+00:07:18.319 videovigilancia para comprobar que el
+00:07:19.800 que accede con la tarjeta corresponde a
+00:07:22.039 la persona que está entrando. Puedes
+00:07:24.039 tener incluso hay empresas que tienen un
+00:07:25.759 vigilante de seguridad en la puerta y
+00:07:28.080 anota ese registro de entrada. Si vas a
+00:07:31.160 pedir identificación de las personas que
+00:07:33.639 entran, puedes pedir que enseñen su
+00:07:36.039 identificación o DNI, pero no lo
+00:07:38.120 escanees ni lo fotocopies porque no hace
+00:07:40.759 falta y al final también te metes en un
+00:07:42.680 problema derivado de protección de
+00:07:44.560 datos. Mi recomendación para este
+00:07:47.000 control es que las visitas estén
+00:07:49.080 identificadas. Ponle, por ejemplo, una
+00:07:51.759 tarjeta de visitante para que todo el
+00:07:53.479 mundo sepa que es una visita. darle unas
+00:07:55.400 instrucciones en la entrada de tu
+00:07:57.440 edificio indicando, por ejemplo, si hay
+00:08:00.280 una emergencia por dónde debe salir para
+00:08:02.479 que tenga en cuenta que no puede estar
+00:08:04.039 solo en las instalaciones. Prohíbe el
+00:08:05.879 uso de teléfonos móviles para que saquen
+00:08:07.800 fotografías. Así en la entrada de tu
+00:08:10.319 recinto no solamente identificas al a la
+00:08:13.360 visita, sino es que además le das unas
+00:08:15.120 instrucciones de cómo debe comportarse
+00:08:17.319 en tus instalaciones y qué hacer en caso
+00:08:20.039 de emergencia. Así estás no solo
+00:08:22.720 cumpliendo con la norma ISO 27001, sino
+00:08:24.919 cumpliendo con una obligación legal en
+00:08:27.039 materia, por ejemplo, de prevención de
+00:08:29.120 riesgos laborales en su artículo 20,
+00:08:31.120 medidas de emergencia. Aquí en España,
+00:08:33.360 en otros países, es muy similar. Un
+00:08:35.880 visitante tiene que saber cómo salir si
+00:08:38.679 ocurre algo en las instalaciones como un
+00:08:40.519 apagón y así lo puedes hacer
+00:08:42.039 perfectamente en la entrada y cuando se
+00:08:44.640 vayan que firmen la salida para
+00:08:46.839 comprobar que no ha quedado nadie en las
+00:08:49.080 instalaciones. Siguiente control es
+00:08:51.320 seguridad en las oficinas y recursos.
+00:08:53.720 Evidentemente en tus instalaciones o en
+00:08:55.519 tu empresa, no todos los despachos y
+00:08:57.480 oficinas o sala de reuniones son igual
+00:08:59.360 de críticos. Algunos pueden contener
+00:09:01.680 información muy valiosa. Imagina en
+00:09:03.560 recursos humanos un armario con todas
+00:09:06.240 las nóminas, contratos o datos de
+00:09:09.320 contabilidad de la empresa. No es lo
+00:09:11.000 mismo que un comedor de los trabajadores
+00:09:13.120 donde probablemente no haya ningún tipo
+00:09:14.920 de información. Así que las oficinas o
+00:09:17.440 salas con recursos especiales deberán
+00:09:19.839 tener un acceso mucho más limitado.
+00:09:22.200 Cerraduras con llaves, llaves
+00:09:23.760 inteligente. Hemos hablado antes de
+00:09:25.440 biometría, por ejemplo. Yo la biometría
+00:09:27.760 la veo recomendable en un CPD, en un
+00:09:30.640 servidor o una sala altamente
+00:09:32.920 confidencial o accesos que cada vez
+00:09:35.519 vemos más con una cerradura inteligente
+00:09:37.680 que identifique quién entra y quién
+00:09:39.360 sale. Si eso lo complementas con esas
+00:09:41.399 cámaras de seguridad, tendrás un control
+00:09:44.040 muy exacto de quién accede a ciertos
+00:09:47.079 despachos confidenciales. Recomendable
+00:09:49.360 que los despachos tengan un área más
+00:09:52.040 privada o cortinas para ciertas
+00:09:54.160 reuniones presenciales que tengamos que
+00:09:56.399 mantener confidencialidad de quién
+00:09:58.440 accede o quién está dentro de ese tipo
+00:10:00.839 de reuniones. Recuerda que también
+00:10:02.839 tendremos que implementar algún tipo de
+00:10:05.279 control si se trata una información muy
+00:10:07.560 clasificada como inhibidores o incluso
+00:10:10.440 prohibir el uso de teléfonos móviles
+00:10:12.760 durante ciertas reuniones para evitar
+00:10:15.000 que se graben conversaciones o se puedan
+00:10:17.519 filtrar en algún momento. Con el próximo
+00:10:20.480 control tienes que tener algo de
+00:10:21.640 precaución, es nuevo y es el monitoreo
+00:10:23.880 de la seguridad física. Y este control
+00:10:25.720 generalmente se evidencia muy bien con
+00:10:27.440 alarmas y con cámaras de circuito
+00:10:29.120 cerrado de televisión, como hemos
+00:10:30.480 comentado, pero aquí es donde hay que
+00:10:32.040 hilar muy fino con el tema de la
+00:10:33.640 protección de datos de los empleados o
+00:10:35.920 personas que accedan a tus
+00:10:37.320 instalaciones. Ten presente que la
+00:10:39.240 videovigilancia es algo muy positivo,
+00:10:41.000 muy bueno. Tengo varios vídeos sobre el
+00:10:42.959 tema, pero tienes que intentar que no
+00:10:45.120 sea intrusiva. Por ejemplo, no es lo
+00:10:47.480 mismo colocar cámaras en pasillos,
+00:10:50.000 acceso a servidores, salas especialmente
+00:10:52.920 protegidas, que ponerlo en el área de
+00:10:55.040 descanso de los trabajadores donde no se
+00:10:57.360 puede poner. O, por ejemplo, implementar
+00:10:59.680 audio, que el audio es muy invasivo y a
+00:11:01.399 nivel laboral normalmente vas a tener
+00:11:03.560 que justificarlo muy mucho y es
+00:11:05.680 problemático. Para captar un mínimo
+00:11:07.440 problema vas a grabar cientos de horas
+00:11:09.480 de conversaciones que incluirán mucha
+00:11:11.800 información privada de visitantes,
+00:11:14.120 terceros o trabajadores. Recuerda, por
+00:11:16.560 ejemplo, aquí en España con nuestra Ley
+00:11:17.920 Orgánica de Protección de Datos y
+00:11:19.160 Garantías de Derechos Digitales que la
+00:11:21.200 videovigilancia de las instalaciones
+00:11:22.639 está permitida. Artículo 20.3 del
+00:11:25.040 Estatuto de los Trabajadores. Pero
+00:11:26.800 tendrás que hacer una buena análisis de
+00:11:29.040 riesgo, incluso a veces evaluación de
+00:11:30.680 impacto, informar a los trabajadores a
+00:11:33.120 su representación legal y además tener
+00:11:35.160 un buen mapeo de dónde has colocado las
+00:11:36.760 cámaras, quién accede a ella y, incluso
+00:11:39.399 tener una buena segunda capa informativa
+00:11:41.560 para los visitantes que te la exijan.
+00:11:43.680 Recuerda, videovigilancia, sí. pero con
+00:11:46.079 salvaguardas para proteger los derechos
+00:11:48.519 y libertades de las personas. Por
+00:11:50.720 ejemplo, no tener un Zoom excesivo, no
+00:11:53.800 tener una grabación de salas donde haya
+00:11:57.240 una expectativa de privacidad, como
+00:11:59.399 puede ser una sala de formación, tener
+00:12:01.639 en cuenta esos aspectos. Así que
+00:12:03.200 involucra a tu responsable de prevención
+00:12:05.720 y a tu responsable de protección de
+00:12:08.160 datos. Así tendrás cero problemas. El
+00:12:11.839 siguiente control es uno de los que más
+00:12:13.199 me gusta porque normalmente se descuida
+00:12:15.240 y hay que tenerlo muy presente y son las
+00:12:17.279 amenazas externas, incendios,
+00:12:19.639 inundaciones, cualquier tipo de agente
+00:12:22.720 externo que pueda provocar una
+00:12:24.320 emergencia en tus instalaciones y ponga
+00:12:26.279 en riesgo tu continuidad de negocio o tu
+00:12:28.720 seguridad de la información. Por mucho
+00:12:30.680 que tengas ciberseguridad y tengas
+00:12:32.480 implantado controles y hay un incendio y
+00:12:34.360 no tienes nada preparado, pues lo vas a
+00:12:36.199 perder todo. ¿Cómo se puede evidenciar
+00:12:38.959 este control y cómo se puede hacer bien?
+00:12:40.880 Primero y principal, calcula en un
+00:12:42.560 análisis de riesgo, involucra a tus
+00:12:44.519 responsable de seguridad física. Calcula
+00:12:47.040 qué riesgos tienes y a qué estás
+00:12:48.839 expuesto en tu zona. Terremotos,
+00:12:51.519 inundaciones, incendios, siempre hay que
+00:12:53.880 tenerlo presente, apagones eléctricos de
+00:12:56.320 larga duración. ¿A qué estamos
+00:12:58.000 expuestos? En cuanto tengamos claro eso,
+00:13:00.959 podremos hacer un buen plan de acción
+00:13:02.839 con tus medidas de emergencia para
+00:13:04.800 proteger tus instalaciones y a las
+00:13:06.800 personas que ocupan eh sus puestos,
+00:13:09.079 porque tendrán que salir, tendrán que
+00:13:10.680 tener todo un plan de capacitación para
+00:13:13.440 evitar futuros riesgos. Por ejemplo,
+00:13:15.639 implementación de extintores. Recuerda
+00:13:17.839 que tienen que estar señalados en
+00:13:19.600 lugares habilitados, luces de
+00:13:20.920 emergencia. Recomendable extintores de
+00:13:23.680 CO2 en las instalaciones como el CPD o
+00:13:26.560 servidores, sobre todo porque el CO2 no
+00:13:29.480 estropea el material eléctrico o
+00:13:31.560 informático, tiene otros riesgos.
+00:13:32.959 Recuerda que sale a -80º de temperatura
+00:13:35.600 y puede provocar quemaduras y además
+00:13:38.480 puede dar un problema porque si hay una
+00:13:40.519 descarga de CO2 en un espacio muy
+00:13:42.519 cerrado, el oxígeno puede comprometerse
+00:13:45.279 y el trabajador que esté allí sufrir un
+00:13:47.360 problema. Así que, como ves, no solo
+00:13:48.880 basta con tener extintores, hay que
+00:13:50.639 capacitar a las personas. Para
+00:13:52.920 evidenciar que lo tienes bien, es bueno
+00:13:54.279 tener un contrato con una empresa
+00:13:55.920 mantenedora para poder demostrar que
+00:13:58.959 tienes revisiones, que se hacen las
+00:14:00.839 pertinentes recargas de los extintores.
+00:14:03.040 Si tienes bocas de incendio equipadas,
+00:14:05.040 también tendrán que pasar las oportunas
+00:14:08.160 inspecciones y además, como decíamos,
+00:14:10.040 tener un plan de emergencia o
+00:14:11.480 evacuación. Incluso en lugares como
+00:14:13.959 España vamos más allá y hay planes que
+00:14:17.160 van son más grandes que un plan de
+00:14:19.600 emergencia que son los planes de
+00:14:22.639 autoprotección que se regula por el Real
+00:14:25.040 Decreto 393/2007
+00:14:27.600 y son para edificios normalmente un poco
+00:14:29.560 más grandes o instalaciones
+00:14:31.279 industriales.
+00:14:33.240 Para las inundaciones, pues a lo mejor
+00:14:35.199 necesitas un sueldo técnico o detectores
+00:14:38.160 antihumedad, tener buenas ventanas, no
+00:14:40.560 dejar los aparatos eléctricos o
+00:14:42.920 informáticos junto a ventanas abiertas y
+00:14:45.839 eso lo puedes remediar incluso con
+00:14:47.920 detección en las ventanas o formación a
+00:14:50.360 las personas para que nunca las dejen
+00:14:51.880 abiertas en caso de de lluvia. Aquí lo
+00:14:54.279 puedes hacer como quieras, pero tienes
+00:14:55.720 que tener todos estos factores
+00:14:57.279 ambientales en cuenta y poder evidenciar
+00:15:00.079 que los tienes controlados.
+00:15:03.360 sugerencia con este control, pues
+00:15:05.079 probablemente la empresa tenga
+00:15:06.320 detectores de humo, así que te
+00:15:07.920 recomiendo hacer anualmente un simulacro
+00:15:10.959 y ese simulacro que vaya cambiando,
+00:15:13.120 puedes hacer de incendio, de apagones,
+00:15:15.199 de inundación y así tienes a la gente
+00:15:17.040 capacitada, preparada, saben qué hacer
+00:15:19.040 en caso de emergencia. Incluso si haces
+00:15:20.959 simulacros que sean realistas, pues
+00:15:23.079 podrás comprobar que realmente funcionan
+00:15:25.519 tus sistemas. Yo, por ejemplo, en mi
+00:15:27.279 caso, he hecho cientos de simulacros y
+00:15:29.480 la gran mayoría de veces es por humo e
+00:15:32.040 incendio. Y así activas la alarma, sabes
+00:15:34.680 que funcionan, todo el mundo la reconoce
+00:15:36.759 y además sabe qué hacer. Generalmente en
+00:15:38.720 los incendios se suele cortar la luz y
+00:15:41.240 para el simulacro viene genial. No
+00:15:42.759 solamente usas, por ejemplo, algo de
+00:15:45.199 humo, sino que encima cortas la luz para
+00:15:47.199 comprobar la eficacia real de los
+00:15:48.839 sistemas, cartelería, luces de
+00:15:50.600 emergencia y comprobar que las personas
+00:15:52.880 saben hacer su trabajo y saben salir en
+00:15:56.240 condiciones del recinto. El siguiente
+00:15:59.040 control es trabajo en áreas seguras y
+00:16:01.319 recuerda que hay lugares en la empresa
+00:16:02.839 que son especialmente confidenciales,
+00:16:04.880 salas técnicas, servidores, CPD, no todo
+00:16:08.000 el mundo debería entrar. Ahí tenéis que
+00:16:09.680 tener un registro de acceso, por
+00:16:11.519 ejemplo, al servidor o al CPD. Tendría
+00:16:13.519 que haber un registro efectivo de quién
+00:16:15.440 entra, cómo entra, cuándo entra y qué ha
+00:16:17.560 hecho. Para ello, pues se puede
+00:16:19.360 informatizar o tener incluso un listado,
+00:16:21.120 aunque es mejor tenerlo informatizado.
+00:16:23.160 Ahí tiene que haber unas instrucciones
+00:16:25.199 muy restrictivas. Una persona, por
+00:16:27.560 ejemplo, un proveedor o un tercero que
+00:16:29.560 viene a hacer un mantenimiento, vamos a
+00:16:31.199 poner algo muy simple, en tu servidor
+00:16:33.360 que debería estar a una temperatura
+00:16:34.759 adecuada, pues vienen a revisar la
+00:16:36.639 climatización y entra esa empresa de
+00:16:38.720 climatización en tu sala de de
+00:16:40.920 servidores. Tenemos que apuntar quién
+00:16:42.839 entra, qué van a hacer y darle
+00:16:44.639 instrucciones. Por ejemplo, pueden
+00:16:46.000 entrar con el teléfono móvil, pueden
+00:16:47.959 estar allí solos sin vigilancia interna
+00:16:50.839 de la organización. Eso no debería
+00:16:52.759 ocurrir. Es un área segura. tiene que
+00:16:54.360 haber alguien responsable que vigile,
+00:16:56.240 qué hacen, qué tocan y qué no tocan. Por
+00:16:58.680 tanto, el trabajo en áreas seguras es un
+00:17:00.800 control que tendrás que llevar de forma
+00:17:02.959 muy efectiva y monitorizar realmente
+00:17:06.079 todas esas subcontratas que entras en
+00:17:08.000 tus instalaciones, trabajadores internos
+00:17:10.079 que están en áreas seguras y cómo deben
+00:17:12.280 desempeñar su trabajo en ese área.
+00:17:15.039 Instrucciones firmadas y comprobar que
+00:17:17.559 realmente las ejecutan de forma
+00:17:19.520 correcta. El siguiente control, limpieza
+00:17:22.079 de escritorio de pantalla es muy simple.
+00:17:24.039 Aquí hablamos un poco de política de
+00:17:25.400 mesas limpias, no tener papeles a la
+00:17:27.039 vista, no tener un escritorio donde yo
+00:17:29.080 me puedo sentar en el de mi compañero y
+00:17:30.640 ver toda su información o ver en qué
+00:17:32.320 está trabajando, sus correos
+00:17:33.480 electrónicos e implementar medidas, pues
+00:17:35.840 como puede ser que salte el
+00:17:36.840 salvapantallas rápidamente o que los
+00:17:38.559 ordenadores se apaguen de forma
+00:17:39.760 automática eh cuando acaba la jornada
+00:17:41.799 laboral. Ten presente que al final si
+00:17:43.720 tienes papeles en la mesa con nombres,
+00:17:45.960 números de teléfono, es una información
+00:17:47.559 que hasta el personal de limpieza que
+00:17:49.240 acceda después va a poder observar. Ten
+00:17:51.799 precaución con qué documentos se tiran a
+00:17:53.960 papeleras, usa destructoras de papel o
+00:17:56.600 contenedores para el papel y sobre todo
+00:17:59.480 que el equipo, el ordenador, cuando te
+00:18:01.440 ausentas no pueda verse por terceros.
+00:18:04.400 También ten tu escritorio limpio, no
+00:18:06.640 tengas 1000 iconos y sobre todo limpia
+00:18:09.080 también la papelera de reciclaje de tu
+00:18:11.120 escritorio, que es muy frecuente que se
+00:18:12.760 mire en auditoría y que además se revise
+00:18:15.280 si realmente lo estás eliminando cada
+00:18:17.400 cierto tiempo. Lo recomendable es no
+00:18:19.120 tener ningún documento altamente
+00:18:21.559 sensible a un clic de ratón en tu propio
+00:18:23.880 escritorio. Aunque tú tengas protegida
+00:18:25.960 tu sesión, es bueno que siempre que te
+00:18:28.320 levantes o configures para que el equipo
+00:18:32.080 se mantenga en standby o se cierre la
+00:18:34.440 sesión o tecla Windows L y así te
+00:18:37.720 levantas tranquilo de que tendrás que
+00:18:39.440 volver a activar la sesión cuando te
+00:18:41.039 vuelvas a sentar. Los siguientes dos eh
+00:18:43.960 controles van muy unidos. El primero es
+00:18:45.840 seguridad de los equipos y su ubicación,
+00:18:48.080 que lo que tenemos que comprobar ahí es
+00:18:50.000 dónde están ubicados los equipos. Como
+00:18:51.960 decíamos, por ejemplo, que no se puedan
+00:18:53.320 ver desde la calle. Si trabajáis con
+00:18:55.039 cristaleras, que alguien desde fuera no
+00:18:56.799 vea lo que estamos trabajando y dónde se
+00:18:59.600 colocan. Hemos dicho incluso junto a una
+00:19:01.320 ventana que le pueda caer agua, en
+00:19:02.679 lugares de riesgo, la ubicación del
+00:19:04.799 equipo y su protección frente a que
+00:19:06.799 terceros puedan verlo, sentarse en él o
+00:19:09.919 incluso robarlo. Recordad que un
+00:19:11.960 dispositivo como un ordenador eh eh un
+00:19:15.360 portátil se puede perfectamente, por
+00:19:17.120 desgracia, robar y hay que tenerlo muy
+00:19:19.000 vigilado. No es son la única empresa que
+00:19:21.280 incluso ha puesto ciertas cadenas o
+00:19:23.600 candados a algunos equipos de seguridad
+00:19:25.679 para evitar su robo. Además, es muy
+00:19:27.520 bueno que los equipos estén etiquetados
+00:19:30.080 para que se les pueda reconocer
+00:19:31.720 fácilmente. El siguiente control sería
+00:19:34.679 esa utilización de los equipos cuando
+00:19:36.520 estamos viajando o eh durante el
+00:19:38.720 tránsito. Ahí los equipos cuando estamos
+00:19:41.200 viajando deberíamos tener unas medidas
+00:19:43.120 de seguridad que sean exactamente
+00:19:44.679 acordes a las que tenemos en las
+00:19:46.159 instalaciones con esa protección de que
+00:19:48.919 el dispositivo, por ejemplo, viaje
+00:19:51.000 apagado, tenga contraseña, doble factor
+00:19:54.280 y en caso de robo notificarlo
+00:19:56.039 urgentemente porque puede ser una brecha
+00:19:57.960 de seguridad de la información, incluso
+00:20:00.360 pantallas de confidencialidad para
+00:20:02.520 viajar en tren o en avión si vas
+00:20:03.919 trabajando y que la persona que esté al
+00:20:05.760 lado no vea lo que estás haciendo en ese
+00:20:08.799 momento.
+00:20:10.480 El siguiente control del que te voy a
+00:20:11.880 hablar da muchos dolores de cabeza y son
+00:20:13.960 los medios de almacenamiento extraíbles.
+00:20:16.760 Estos que a veces no se controlan para
+00:20:18.400 nada ni se hacen un inventario de los
+00:20:20.559 mismos o incluso peor se permite que los
+00:20:23.200 propios trabajadores usen los suyos y al
+00:20:25.600 final no tenemos claro quién accede a
+00:20:28.240 qué y qué información se está guardando
+00:20:30.480 por quién. Así que lo mejor es
+00:20:32.200 inventariarlos, tener claro qué medios
+00:20:34.720 extraíbles son de la organización y unas
+00:20:37.200 políticas de uso. En muchos casos, lo
+00:20:39.720 mejor es incluso caparlos para que nadie
+00:20:42.120 pueda utilizarlo sin el permiso del
+00:20:44.000 responsable de seguridad y con una
+00:20:45.919 justificación clara. También controlar
+00:20:48.679 muy bien que puedan tener un bitlocker o
+00:20:50.760 tener alguna clave de acceso para que yo
+00:20:52.840 no pueda meter directamente un USB y
+00:20:55.440 llevarme información de la compañía. Y
+00:20:57.159 además debe quedar una traza a nivel de
+00:21:00.039 vigilancia y monitorización de que ese
+00:21:02.000 USB ha entrado en un dispositivo y qué
+00:21:05.159 información se ha llevado o ha volcado
+00:21:07.799 en nuestros sistemas. Evidentemente, si
+00:21:10.080 esos pendrive salen de la organización y
+00:21:12.720 contienen datos, lo correcto es que
+00:21:14.600 estén cifrados o tengan clave o tengan
+00:21:17.240 algún sistema para que si se pierden, no
+00:21:19.799 sea una pérdida de información grave
+00:21:22.559 para la compañía y además como decíamos
+00:21:24.840 que esté en posesión de una persona
+00:21:26.640 responsable y tengamos claro qué lleva,
+00:21:29.480 cuánto tiempo lo lleva y qué hacer con
+00:21:31.480 ese USB una vez que acabe su trabajo.
+00:21:36.360 El siguiente control, el A711, habla un
+00:21:38.720 poco de los servicios públicos y el
+00:21:40.279 apoyo que tenemos que tener en caso de,
+00:21:42.279 por ejemplo, pérdida de energía, fuentes
+00:21:44.080 alternativas, tenemos que tenerlo
+00:21:45.799 previsto. Por ejemplo, tenemos un grupo
+00:21:47.679 electrógeno, tenemos un site que nos
+00:21:49.760 ayude a tener la información disponible
+00:21:52.039 durante unos 20, 30 minutos en caso de
+00:21:54.000 un apagón, como hemos sufrido en alguna
+00:21:55.880 ocasión. Esa energía eléctrica y esos
+00:21:58.080 servicios de apoyo tenemos que tenerlos
+00:22:00.080 muy claros. Si por ejemplo el apoyo es
+00:22:02.679 externo, nuestros proveedores garantizan
+00:22:04.880 un mínimo de energía durante un tiempo.
+00:22:07.000 Tened presente que sin energía eléctrica
+00:22:08.799 no podremos trabajar y por tanto tenemos
+00:22:11.039 que tener un plan B para nuestra
+00:22:12.720 continuidad de negocio y ya no solo
+00:22:14.440 energía eléctrica, agua y otros
+00:22:16.200 servicios básicos para la continuidad de
+00:22:18.320 nuestra empresa y garantizar la
+00:22:20.080 seguridad de nuestra información en todo
+00:22:22.679 momento. Y los últimos tres controles
+00:22:25.440 son bastante simples, pero muy
+00:22:27.159 importantes. El primero, la seguridad
+00:22:28.600 del cableado. Tendrás que revisar que el
+00:22:30.600 cableado está correcto, su
+00:22:32.159 mantenimiento, tenerlo bien peinado en
+00:22:34.559 el servidor, tenerlo todo muy claro y
+00:22:36.360 etiquetado para evitar futuros
+00:22:38.240 problemas. También si hablamos de
+00:22:40.000 instalación eléctrica, pues ten en
+00:22:41.520 cuenta los reglamentos de instalación
+00:22:43.520 como el reglamento electrotécnico de
+00:22:44.840 baja tensión y comprobar que todos tus
+00:22:47.120 cuadros eléctricos están cerrados, con
+00:22:49.039 tapas, señalizados y tenerlo todo
+00:22:50.720 perfecto. Cables de red y cables
+00:22:53.159 eléctricos en la compañía. Después
+00:22:55.159 tenemos los mantenimientos de los
+00:22:56.640 equipos. Claro, pues el equipo hay que
+00:22:58.000 mantenerlo, hay que tener un correcto
+00:22:59.960 funcionamiento todo el tiempo y tenemos
+00:23:01.880 que tener a un responsable del
+00:23:03.080 mantenimiento de esos equipos y de
+00:23:05.120 comprobar con soporte de que el
+00:23:07.200 mantenimiento se hace periódicamente,
+00:23:09.200 tanto las actualizaciones como el
+00:23:11.200 mantenimiento físico. Recuerda que
+00:23:13.320 muchos equipos en la empresa no son solo
+00:23:16.039 para elementos de trabajo, pueden ser eh
+00:23:19.039 elementos que nos ayudan a mantener la
+00:23:20.799 información, pero tienen que estar
+00:23:22.600 mantenidos por especialistas. Por
+00:23:24.400 ejemplo, tenemos revisiones periódicas,
+00:23:26.520 tenemos que firmar esas revisiones y
+00:23:28.600 además tenemos que tener un control
+00:23:30.320 efectivo de que se está haciendo por
+00:23:32.320 personal cualificado, que eso es muy
+00:23:34.919 importante. El último de los controles
+00:23:36.960 para cerrar este ciclo es la eliminación
+00:23:40.240 segura o reutilización de los equipos.
+00:23:42.520 ¿Qué hacemos con ellos? Con los
+00:23:43.919 ordenadores se eliminan o se reutilizan.
+00:23:47.080 En ambos casos, hay que tener un
+00:23:48.640 procedimiento muy claro y muy bien
+00:23:50.440 documentado. Si tú lo vas a eliminar,
+00:23:52.679 ¿qué procedimiento estás usando para
+00:23:54.240 eliminar los equipos? ¿Puede recuperarse
+00:23:56.520 la información? ¿Se está tirando a un
+00:23:58.279 contenedor? ¿Se está tirando a un, por
+00:24:00.720 ejemplo, un punto limpio, el disco duro
+00:24:03.240 se ha destruido. ¿Cómo lo estamos
+00:24:05.279 destruyendo de forma física? Eh, lo
+00:24:07.760 metemos en un microondas, ¿qué hacemos
+00:24:09.640 con él? Tenemos que tener ese
+00:24:11.159 procedimiento muy claro para que nunca
+00:24:13.039 fallemos y además cualquier técnico de
+00:24:14.880 soporte lo pueda realizar de la misma
+00:24:16.919 manera. Si se va a reutilizar, habrá que
+00:24:20.039 hacer un buen borrado de la información,
+00:24:22.240 asegurándonos que la persona que reciba
+00:24:24.120 de nuevo el equipo no pueda acceder a
+00:24:26.559 nada de lo que ya había. Y eso es básico
+00:24:29.520 para mantener la confidencialidad de
+00:24:31.880 nuestra documentación. maquetarás el
+00:24:34.279 equipo, lo eliminarás todo de forma
+00:24:36.559 segura y lo tendremos muy correcto antes
+00:24:39.720 de entregar nada a un nuevo trabajador.
+00:24:42.960 Bueno, pues a grandes rasgos, este es un
+00:24:44.880 breve resumen de los controles físicos
+00:24:47.000 que deberías implementar. Recuerda que
+00:24:49.000 si lo vas a poner en tu declaración de
+00:24:50.720 aplicabilidad y alguno de ellos no te
+00:24:52.559 aplica, tendrías que justificar el que
+00:24:55.159 no te aplica, porque si tienes unas
+00:24:57.200 instalaciones físicas, no puedes decir
+00:24:58.960 que no te aplica el tema de protección
+00:25:01.320 contra incendios, porque va a aplicar
+00:25:03.039 siempre las instalaciones pueden arder.
+00:25:05.520 Pero si alguno de ellos no te aplica,
+00:25:06.840 justifícalo bien para evitar problemas
+00:25:08.720 en auditoría o ante inspecciones.
+00:25:12.760 Y recuerda, si este contenido te parece
+00:25:14.679 útil y quieres ver más vídeos sobre
+00:25:17.159 ello, sígueme, deja un comentario y nos
+00:25:20.159 vemos en el siguiente vídeo.
